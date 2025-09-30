@@ -1,0 +1,194 @@
+{
+    "translations": [
+        {
+            "id": "T001",
+            "source_language": "english",
+            "text_source": "Install the SIM card and battery\nAlways switch the device off, and disconnect the charger before removing \nthe battery.\nKeep all SIM cards out of the reach of small children.\nFor availability and information on using SIM card services, contact your SIM \ncard vendor. This may be the service provider, network operator, or other vendor.\nThe SIM card and its contacts can easily be damaged by scratches or bending, so \nbe careful when handling, inserting, or removing the card.\nTo install the SIM card:\n1. Press firmly and slide the top of the back \ncover to release it; then remove the back \ncover by lifting it from the phone.\n2. After you have removed the back cover, \ninsert your fingernail under the battery, \nulld lift it as shown.\n3. Place a fingernail in the middle of the \nmetal SIM card holder. Then, unlatch \nulld swing the SIM card holder open. \n4. Insert the SIM card into the holder as \nshown, beveled corner first, with the \ngold-colored contacts on the SIM card \nface up (away from the phone).\n5. Swing the SIM card holder closed. The \ngold-colored contacts on the SIM card \nmeet the gold-colored contacts on the \ninside of the phone. Gently press the SIM \ncard holder into the phone until it clicks into place.\n6. Replace the battery, by positioning it (with the \nlabel side facing up), so the gold-colored contacts \nmatch up with those on the phone. Slide the \nbattery in until it snaps into place. \n7. Slide the back cover until it locks into place.",
+            "target_language": "spanish",
+            "text_target": "Instalar la tarjeta SIM y la batería\nSiempre apague el dispositivo y desconecte el cargador antes de retirar la batería.\nMantenga todas las tarjetas SIM fuera del alcance de los niños.\nPara obtener más información sobre disponibilidad y uso de los servicios de tarjetas \nSIM, comuníquese con el proveedor de su tarjeta SIM. Puede ser su proveedor de \nservicios, operador de red u otro proveedor.\nLa tarjeta SIM y sus contactos pueden dañarse fácilmente al rayarse o doblarse, \nasí que tenga cuidado al manejar, instalar o retirar la tarjeta.\nPara instalar la tarjeta SIM:\n1. Presione y deslice la parte superior de la \ncubierta posterior para soltarla, luego \ncontinúe deslizando la cubierta posterior \npara levantarla y retirarla del teléfono.\n2. Después de retirar la cubierta posterior, \ninserte su dedo debajo de la batería y \nlevántela como se muestra.\n3. Coloque una uña en la parte central del \nsoporte metálico de la tarjeta SIM. Luego, \nsuelte y abra el soporte de la tarjeta SIM. \n4. Inserte la tarjeta SIM en el soporte como se \nmuestra, primero la esquina biselada, con \nlos contactos dorados en la tarjeta SIM \nhacia arriba (lejos del teléfono).\n5. Gire el sujetador de la tarjeta SIM para que \ncierre. Los contactos dorados en la tarjeta \nSIM coinciden con los contactos dorados \ndentro del teléfono. Presione cuidadosamente \nel soporte de la tarjeta SIM dentro del \nteléfono hasta que encaje en su sitio.\n6. Vuelva a colocar la batería, al colocarla (con el lado \nde la etiqueta hacia arriba), de manera que los \ncontactos dorados coincidan con los del teléfono. \nDeslíce la batería hasta que encaje en su sitio. \n7. Deslíce la cubierta posterior hasta que encaje \nen su sitio.",
+            "section": "Get started",
+            "pages": "[11, 110]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T002",
+            "source_language": "english",
+            "text_source": "Charge the battery\r\n1. Connect the charger to a standard wall \r\noutlet.\r\n2. Insert the charger plug into the round \r\njack in the bottom of the phone. If the \r\nbattery is completely discharged, it may \r\ntake a few minutes before the charging \r\nindicator appears on the display or \r\nbefore any calls can be made.\r\n3. Disconnect the charger from the phone \r\nwhen the battery is fully charged.\r\nYou can use the phone while the charger is \r\nconnected. The charging time depends on the charger and the battery used. \r\nFor example, charging a BL-5C battery with the AC-3 charger takes \r\napproximately 2 hours and 20 minutes while the phone is in the standby mode.",
+            "target_language": "spanish",
+            "text_target": "Cargar la batería\n1. Conecte el cargador a un enchufe de \npared estándar.\n2. Inserte el conector del cargador en el \nenchufe redondo en la base del teléfono. \nSi la batería está completamente \ndescargada, es posible que pasen varios \nminutos antes de que el indicador de \ncarga aparezca en la pantalla o antes \nde poder realizar alguna llamada.\n3. Desconecte el cargador del teléfono \ncuando la batería esté \ncompletamente cargada.\nPuede usar el teléfono mientras el cargador está conectado. Los tiempos de carga \ndependen del cargador y la batería usada. Por ejemplo, cargar una batería BL-5C con \nel cargador AC-3 toma aproximadamente 2 horas y 20 minutos con el teléfono \nen el modo standby.",
+            "section": "Get started",
+            "pages": "[12, 111]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T003",
+            "source_language": "english",
+            "text_source": "Switch the phone on and off\nPress and hold the end key until the \nphone switches on or off. If the \nphone asks for a PIN, enter the code, \nulld select OK.",
+            "target_language": "spanish",
+            "text_target": "Encender y apagar el teléfono\r\nMantenga pulsada la tecla Finalizar \r\nhasta que el teléfono se encienda o \r\nse apague. Si el teléfono solicita un \r\ncódigo PIN, ingréselo y seleccione OK.",
+            "section": "Get started",
+            "pages": "[13,112]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T004",
+            "source_language": "english",
+            "text_source": "Music player\r\nYour phone includes a music player for listening to music tracks, recordings, or \r\nMP3, MP4, WMA (Windows Media Audio), AAC, AAC+, or eAAC+ sound files that \r\nyou have transferred to the phone with the Nokia Music Manager application. \r\nMusic files are automatically detected and added to the default track list.",
+            "target_language": "spanish",
+            "text_target": "Reproductor de música\r\nSu teléfono incluye un reproductor de música para escuchar sus pistas de música, \r\ngrabaciones o archivos de sonido MP3, MP4, WMA (Windows Media Audio), AAC, \r\nAAC+ o eAAC+ que haya transferido al teléfono con la aplicación Nokia Music \r\nManager. Los archivos de música se detectan y agregan automáticamente a la \r\nlista de pistas predeterminada.",
+            "section": "Media",
+            "pages": "[64,167]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T005",
+            "source_language": "english",
+            "text_source": "Radio\r\nThe FM radio depends on an antenna other than the wireless device antenna. \r\nA compatible headset or enhancement needs to be attached to the device for the \r\nFM radio to function properly.\r\nWarning: Listen to music at a moderate level.Continuous exposure to \r\nhigh volume may damage your hearing.",
+            "target_language": "spanish",
+            "text_target": "Radio\r\nLa radio FM depende de una antena además a la antena del dispositivo inalámbrico. \r\nPara que la radio FM funcione adecuadamente, es preciso conectar un auricular o \r\naccesorio compatible al dispositivo.\r\nAdvertencia: Escuche música a un volumen moderado. La exposición \r\nprolongada a un nivel de volumen alto puede perjudicar su facultad auditiva.",
+            "section": "Media",
+            "pages": "[65,169]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T006",
+            "source_language": "english",
+            "text_source": "Web\r\nYour phone has a built-in browser, which can be used to connect to selected \r\nservices on the mobile internet. Many wireless mobile internet access features \r\nare network-dependent, and some features may not be available. Contact your \r\nservice provider for more information.",
+            "target_language": "spanish",
+            "text_target": "Web\r\nSu teléfono tiene un explorador incorporado, que se puede utilizar \r\npara conectarse a servicios seleccionados en internet móvil. Muchas funciones \r\ninalámbricas de acceso a internet móvil dependen de la red y es posible que algunas \r\nfunciones no estén disponibles. Comuníquese con su proveedor de servicios para \r\nobtener más información.",
+            "section": "Web",
+            "pages": "[73,178]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T007",
+            "source_language": "english",
+            "text_source": "Technology background\r\nA technology called wireless application protocol (WAP) is to mobile devices \r\nwhat the world wide web (WWW) is to personal computers.\r\nMost WAP sites are made up of text and hyperlinks. Some pages even contain \r\nlow-resolution graphics or require data input.\r\nYou may not be able to view all the details of the mobile internet pages, as page \r\nappearance may vary due to screen size.",
+            "target_language": "spanish",
+            "text_target": "Antecedentes de la tecnología\r\nUna tecnología llamada protocolo de aplicación de telefonía inalámbrica (WAP) \r\nes para dispositivos móviles lo que la red mundial web (WWW) es para las \r\ncomputadoras personales.\r\nLa mayoría de los sitios WAP están formados por texto e hipervínculos. Algunas \r\npáginas hasta contienen gráficos de baja resolución o requieren de ingreso de datos.\r\nEs posible que no pueda ver todos los detalles de las páginas de internet móvil, \r\ndebido a que la apariencia de la página puede variar dependiendo del tamaño \r\nde la pantalla.",
+            "section": "Web",
+            "pages": "[73,178]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T008",
+            "source_language": "english",
+            "text_source": "Browse\nIt should not be necessary to manually configure the browser on your phone. \nNormally this is done by your service provider once you have subscribed to the \nfeature. Contact your service provider if you have problems using the browser.\nAfter you make a connection to the service, you can start browsing its pages. The \nfunction of the phone keys may vary in different services. Follow the text guides \non the phone display. For more information, contact your service provider.",
+            "target_language": "spanish",
+            "text_target": "Explorar\nNo debería ser necesario configurar manualmente el explorador en su teléfono. \nNormalmente esto lo hace su proveedor de servicios una vez que se ha suscrito a la \nfunción. Comuníquese con su proveedor de servicios en caso de tener problemas al \nusar el explorador.\nTras hacer la conexión al servicio, puede empezar a explorar por sus páginas. \nLa función de las teclas del teléfono puede variar según los servicios. Siga las \ninstrucciones de texto en la pantalla del teléfono. Para obtener más información, \nconsulte a su proveedor de servicios.",
+            "section": "Web",
+            "pages": "[74,179]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T009",
+            "source_language": "english",
+            "text_source": "Operating environment\r\nRemember to follow any special regulations in force in any area, and always switch \r\noff your device when its use is prohibited or when it may cause interference or \r\ndanger. Use the device only in its normal operating positions. This device meets \r\nRF exposure guidelines when used either in the normal use position against the \r\near or when positioned at least 5/8 inch (1.5 centimeters) away from the body. \r\nWhen a carry case, belt clip, or holder is used for body-worn operation, it should \r\nnot contain metal and should position the device the above-stated distance from \r\nyour body. To transmit data files or messages, this device requires a quality \r\nconnection to the network. In some cases, transmission of data files or messages \r\nmay be delayed until such a connection is available. Ensure the above separation \r\ndistance instructions are followed until the transmission is completed.\r\nParts of the device are magnetic. Metallic materials may be attracted to the device. \r\nDo not place credit cards or other magnetic storage media near the device because \r\ninformation stored on them may be erased.",
+            "target_language": "spanish",
+            "text_target": "Entorno operativo\r\nRespete la normativa especial vigente en la zona donde se encuentra y apague el \r\ndispositivo siempre que esté prohibido su uso, cuando pueda causar interferencia \r\no resultar peligroso. Use el dispositivo en su posición normal de funcionamiento. \r\nEste dispositivo cumple con las normas de exposición a RF cuando es usado en su \r\nposición normal de funcionamiento, cerca del oído o portado a una distancia \r\nmínima de 5/8 de pulgada (1,5 centímetros) del cuerpo. Al portar el dispositivo en \r\naccesorios como un estuche, clip de cinturón o soporte, utilice sólo los que no \r\ncontengan metal y que mantengan el dispositivo lejos del cuerpo a la distancia \r\nmínima del cuerpo, como indicada arriba. Para transmitir archivos de datos o \r\nmensajes, este dispositivo requiere una conexión de calidad a la red. En algunos \r\ncasos, la transmisión de archivos de datos o mensajes pueden demorarse hasta \r\nque la conexión adecuada esté disponible. Siga las instrucciones anteriores sobre \r\nlas distancias de separación hasta que la transmisión haya finalizado.\r\nAlgunas piezas del dispositivo son magnéticas. Su dispositivo puede atraer \r\nmateriales metálicos. No coloque tarjetas de crédito, ni otros medios magnéticos \r\nde almacenamiento de datos, cerca del dispositivo, pues la información que \r\nalmacenen puede perderse.",
+            "section": "Additional safety information",
+            "pages": "[88,193]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        },
+        {
+            "id": "T010",
+            "source_language": "english",
+            "text_source": "Medical devices\r\nOperation of any radio transmitting equipment, including wireless phones, may \r\ninterfere with the functionality of inadequately protected medical devices. Consult \r\na physician or the manufacturer of the medical device to determine if they are \r\nadequately shielded from external RF energy or if you have any questions. Switch \r\noff your device in health care facilities when any regulations posted in these areas \r\ninstruct you to do so. Hospitals or health care facilities may be using equipment \r\nthat could be sensitive to external RF energy.\r\nPacemakers\r\nPacemaker manufacturers recommend that a minimum separation of 6 inches \r\n(15.3 centimeters) be maintained between a wireless phone and a pacemaker to \r\navoid potential interference with the pacemaker. These recommendations are \r\nconsistent with the independent research by and recommendations of Wireless \r\nTechnology Research. Persons with pacemakers should do the following:\r\n• Always keep the device more than 6 inches (15.3 centimeters) from the pacemaker\r\n• Not carry the device in a breast pocket\n• Hold the device to the ear opposite the pacemaker to minimize the potential \r\nfor interference.\r\nIf you suspect interference, switch off your device, and move the device away.\nHearing aids\r\nSome digital wireless devices may interfere with some hearing aids. If \r\ninterference occurs, consult your service provider.",
+            "target_language": "spanish",
+            "text_target": "Dispositivos médicos\r\nLos aparatos de radiotransmisión, incluso los teléfonos móviles, pueden interferir con \r\nel funcionamiento de dispositivos médicos que no estén protegidos adecuadamente. \r\nConsulte con un médico o con el fabricante del dispositivo médico si tiene alguna \r\npregunta o para determinar si está correctamente protegido contra las señales \r\nexternas de radiofrecuencia. Apague su dispositivo en los lugares específicos de los \r\ncentros de salud donde se le indique. Es probable que en los hospitales y centros de \r\nsalud se utilicen equipos sensibles a las señales externas de RF.\r\nMarcapasos\r\nLos fabricantes de marcapasos recomiendan que se mantenga una separación \r\nmínima de 6 pulgadas (15,3 centímetros) entre un teléfono móvil y el marcapasos \r\na fin de minimizar la potencia para interferencia. Estos consejos provienen de la \r\ninvestigación independiente y recomendaciones de la Investigación tecnológica \r\nen telefonía móvil (Wireless Technology Research). Las personas con marcapasos:\n• Deben mantener siempre una distancia de más de 6 pulgadas \r\n(15,3 centímetros) entre su dispositivo y el marcapasos\r\n• No deben llevar el dispositivo en el bolsillo superior de la ropa \r\n• Deben utilizar el dispositivo en el oído contrario al marcapasos para \r\nminimizar las posibles interferencias.\r\nSi tiene alguna razón para sospechar que existen interferencias, apague su \r\ndispositivo y aléjelo.\r\nAuxiliares auditivos\r\nAlgunos dispositivos móviles digitales pueden interferir con determinados aparatos \r\nauditivos. Si sucede alguna interferencia, comuníquese con su proveedor de servicios.",
+            "section": "Additional safety information",
+            "pages": "[88-89, 193-194]",
+            "source_metadata": {
+                "doc_id": "d8c61dbf7fc19f4e",
+                "doc_type": "user_manual",
+                "language": "english, espanol",
+                "product_type": "phone ",
+                "market_name": "Nokia 6086 ",
+                "product_model": "Nokia 6086 ",
+                "manufacture": "nokia",
+                "released_year": null
+            }
+        }
+    ]
+}

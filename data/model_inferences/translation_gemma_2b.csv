@@ -1,0 +1,139 @@
+﻿timestamp,task,id,model,input_prompt,ref_groundtruth,model_response
+2025-08-18 03:54:39.177638+00:00,translation,T001,gemma:2b,"Translate the following english sentence into spanish:
+Install the SIM card and battery Always switch the device off, and disconnect the charger before removing the battery. Keep all SIM cards out of the reach of small children. For availability and information on using SIM card services, contact your SIM card vendor. This may be the service provider, network operator, or other vendor. The SIM card and its contacts can easily be damaged by scratches or bending, so be careful when handling, inserting, or removing the card. To install the SIM card:
+1. Press firmly and slide the top of the back cover to release it; then remove the back cover by lifting it from the phone. 2. After you have removed the back cover, insert your fingernail under the battery, and lift it as shown.
+3. Place a fingernail in the middle of the metal SIM card holder. Then, unlatch and swing the SIM card holder open. 
+4. Insert the SIM card into the holder as shown, beveled corner first, with the gold-colored contacts on the SIM card face up (away from the phone).
+5. Swing the SIM card holder closed. The gold-colored contacts on the SIM card meet the gold-colored contacts on the inside of the phone. Gently press the SIM card holder into the phone until it clicks into place.
+6. Replace the battery, by positioning it (with the label side facing up), so the gold-colored contacts match up with those on the phone. Slide the battery in until it snaps into place. 
+7. Slide the back cover until it locks into place.","Instalar la tarjeta SIM y la batería Siempre apague el dispositivo y desconecte el cargador antes de retirar la batería. Mantenga todas las tarjetas SIM fuera del alcance de los niños. Para obtener más información sobre disponibilidad y uso de los servicios de tarjetas SIM, comuníquese con el proveedor de su tarjeta SIM. Puede ser su proveedor de servicios, operador de red u otro proveedor. La tarjeta SIM y sus contactos pueden dañarse fácilmente al rayarse o doblarse, así que tenga cuidado al manejar, instalar o retirar la tarjeta. Para instalar la tarjeta SIM:
+1. Presione y deslice la parte superior de la cubierta posterior para soltarla, luego continúe deslizando la cubierta posterior para levantarla y retirarla del teléfono.
+2. Después de retirar la cubierta posterior, inserte su dedo debajo de la batería y levántela como se muestra.
+3. Coloque una uña en la parte central del soporte metálico de la tarjeta SIM. Luego, suelte y abra el soporte de la tarjeta SIM. 
+4. Inserte la tarjeta SIM en el soporte como se muestra, primero la esquina biselada, con los contactos dorados en la tarjeta SIM hacia arriba (lejos del teléfono).
+5. Gire el sujetador de la tarjeta SIM para que cierre. Los contactos dorados en la tarjeta SIM coinciden con los contactos dorados dentro del teléfono. Presione cuidadosamente  el soporte de la tarjeta SIM dentro del teléfono hasta que encaje en su sitio.
+6. Vuelva a colocar la batería, al colocarla (con el lado de la etiqueta hacia arriba), de manera que los contactos dorados coincidan con los del teléfono. Deslíce la batería hasta que encaje en su sitio. 
+7. Deslíce la cubierta posterior hasta que encaje en su sitio.","**Spanish sentence:**
+
+Instalar la tarjeta SIM y batería
+AlAlways desconectar el dispositivo antes de remover la batería.
+Mantén todas las tarjetas SIM fuera del alcance de los niños pequeños.
+Para obtener información y disponibilidad sobre los servicios de SIM card, contacta tu proveedor de SIM card. 
+
+La tarjeta SIM y sus contactos pueden dañarse fácilmente por los tallos o la flexión, por lo tanto, cuidado al manejarla, insertarla o quitarla.
+Para instalar la tarjeta SIM:
+1. Aprenda presionar firme y deslizar hacia arriba el tapa posterior para liberarla; luego levante el tapa posterior mediante la liftedera del teléfono.
+2. Después de remover el tapa posterior, introduzca su dedo bajo la batería, y levantelo como muestra.
+3. Coloque un dedo en el centro del holder de SIM metálico. Luego, abre el holder de SIM con la gira.
+4. Introduzca la tarjeta SIM en el holder, manteniendo la posición de los contactos de oro en el lado exterior del teléfono.
+5. Clápsate el holder de SIM con la dirección de oro en el SIM. Los contactos de oro en el SIM coinciden con los de oro en el teléfono. Pasa la tarjeta SIM por el holder con cuidado, presionándola suavemente hasta que se inserta correctamente.
+6. Reemplaza la batería, asegurando que la etiqueta esté hacia arriba, con los contactos de oro apuntando hacia el teléfono. Pasa la batería en la posición correcta, con el label hacia arriba, hasta que se ajusta correctamente.
+7. Slide el tapa posterior hasta que se ajusta correctamente."
+2025-08-18 04:03:49.589703+00:00,translation,T002,gemma:2b,"Translate the following english sentence into spanish:
+charge the battery
+1. Connect the charger to a standard wall outlet.
+2. Insert the charger plug into the round jack in the bottom of the phone. If the battery is completely discharged, it may take a few minutes before the charging indicator appears on the display or before any calls can be made.
+3. Disconnect the charger from the phone when the battery is fully charged.
+You can use the phone while the charger is connected. The charging time depends on the charger and the battery used. For example, charging a BL-5C battery with the AC-3 charger takes approximately 2 hours and 20 minutes while the phone is in the standby mode.","Cargar la batería 
+1. Conecte el cargador a un enchufe de pared estándar.
+2. Inserte el conector del cargador en el enchufe redondo en la base del teléfono. Si la batería está completamente descargada, es posible que pasen varios minutos antes de que el indicador de carga aparezca en la pantalla o antes de poder realizar alguna llamada.
+3. Desconecte el cargador del teléfono cuando la batería esté completamente cargada.
+Puede usar el teléfono mientras el cargador está conectado. Los tiempos de carga dependen del cargador y la batería usada. Por ejemplo, cargar una batería BL-5C con el cargador AC-3 toma aproximadamente 2 horas y 20 minutos con el teléfono en el modo standby.","Cargar la batería
+
+1. Conecta el charger al puerto de alimentación estándar del salón.
+2. Insertar el plug del charger en el jack circular en el fondo del teléfono. Si la batería está completamente dischargeada, puede que se tarda unos minutos antes que el indicador de carga aparezca en el display o antes que se puedan realizar llamadas.
+3. Desconecta el charger del teléfono cuando la batería está completamente chargedada."
+2025-08-18 04:06:18.332459+00:00,translation,T003,gemma:2b,"Translate the following english sentence into spanish:
+Switch the phone on and off Press and hold the end key until the phone switches on or off. If the phone asks for a PIN, enter the code, and select OK.","Encender y apagar el teléfono Mantenga pulsada la tecla Finalizar  hasta que el teléfono se encienda o se apague. Si el teléfono solicita un código PIN, ingréselo y seleccione OK.","Sure, here is the Spanish translation of the sentence:
+
+Activa y desactiva el teléfono.
+
+Presiona y mantén la tecla de cierre hasta que el teléfono se encienda o se apaga. Si el teléfono solicita un PIN, introduces el código y selecciona ""OK""."
+2025-08-18 04:08:11.358388+00:00,translation,T004,gemma:2b,"Translate the following english sentence into spanish:
+Music player
+Your phone includes a music player for listening to music tracks, recordings, or MP3, MP4, WMA (Windows Media Audio), AAC, AAC+, or eAAC+ sound files that you have transferred to the phone with the Nokia Music Manager application. Music files are automatically detected and added to the default track list.","Reproductor de música
+Su teléfono incluye un reproductor de música para escuchar sus pistas de música, grabaciones o archivos de sonido MP3, MP4, WMA (Windows Media Audio), AAC, AAC+ o eAAC+ que haya transferido al teléfono con la aplicación Nokia Music Manager. Los archivos de música se detectan y agregan automáticamente a la lista de pistas predeterminada.","El dispositivo musical está incluido en el teléfono y permite escuchar archivos de música, grabaciones o archivos MP3, MP4, WMA (Microsoft Windows Audio), AAC, AAC+, o archivos eAAC+. Los archivos de música se detectan automáticamente y se añaden al listado de canciones predeterminados."
+2025-08-18 04:09:59.522867+00:00,translation,T005,gemma:2b,"Translate the following english sentence into spanish:
+Radio
+The FM radio depends on an antenna other than the wireless device antenna. A compatible headset or enhancement needs to be attached to the device for the FM radio to function properly.
+Warning: Listen to music at a moderate level.Continuous exposure to high volume may damage your hearing.","Radio
+La radio FM depende de una antena además a la antena del dispositivo inalámbrico.  Para que la radio FM funcione adecuadamente, es preciso conectar un auricular o accesorio compatible al dispositivo.
+Advertencia: Escuche música a un volumen moderado. La exposición prolongada a un nivel de volumen alto puede perjudicar su facultad auditiva.","Radio
+
+La radio FM depende de una antena que no es la antena de dispositivo wireless. 
+Un headset compatible o mejora debe ser conectado al dispositivo para que la radio FM funzioni correctamente.
+
+ADVERTENCIA: Escuchar música a un nivel moderado. El exposición a alto volumen puede dañar el oído."
+2025-08-18 04:11:56.167422+00:00,translation,T006,gemma:2b,"Translate the following english sentence into spanish:
+Web
+Your phone has a built-in browser, which can be used to connect to selected services on the mobile internet. Many wireless mobile internet access features are network-dependent, and some features may not be available. Contact your service provider for more information.","Web
+Su teléfono tiene un explorador incorporado, que se puede utilizar para conectarse a servicios seleccionados en internet móvil. Muchas funciones inalámbricas de acceso a internet móvil dependen de la red y es posible que algunas funciones no estén disponibles. Comuníquese con su proveedor de servicios para obtener más información.",El sitio web está integrado en el teléfono y permite conectar al usuario con diferentes servicios disponibles en el internet móvil. Muchos servicios de internet móvil son dependientes de red y algunas funciones no están disponibles. Contactar el proveedor de servicios para obtener más información.
+2025-08-18 04:14:16.875697+00:00,translation,T007,gemma:2b,"Translate the following english sentence into spanish:
+Technology background
+A technology called wireless application protocol (WAP) is to mobile devices what the world wide web (WWW) is to personal computers. Most WAP sites are made up of text and hyperlinks. Some pages even contain low-resolution graphics or require data input. You may not be able to view all the details of the mobile internet pages, as page appearance may vary due to screen size.","Antecedentes de la tecnología
+Una tecnología llamada protocolo de aplicación de telefonía inalámbrica (WAP) es para dispositivos móviles lo que la red mundial web (WWW) es para las computadoras personales. La mayoría de los sitios WAP están formados por texto e hipervínculos. Algunas páginas hasta contienen gráficos de baja resolución o requieren de ingreso de datos. Es posible que no pueda ver todos los detalles de las páginas de internet móvil, debido a que la apariencia de la página puede variar dependiendo del tamaño de la pantalla.","Transliteration:
+
+El contexto tecnológico
+Un fenómeno de tecnología llamado protocolo de aplicación de radiofrecuencia (WAP) es para dispositivos móviles. ¿Qué es el mundo wide web (WWW) para computadoras personales?
+
+La mayoría de los sitios WAP están hechos en texto y enlaces. Algunas páginas incluso contienen gráficos de baja calidad o requieren entrada de datos. A veces, los páginas WAP incluyen incluso imágenes de baja resolución o requieren entrada de datos.
+
+No se puede visualizar todos los detalles de las páginas de internet móviles, ya que el tamaño del pantalla puede variar."
+2025-08-18 04:17:27.891074+00:00,translation,T008,gemma:2b,"Translate the following english sentence into spanish:
+Browse
+It should not be necessary to manually configure the browser on your phone. Normally this is done by your service provider once you have subscribed to the feature. Contact your service provider if you have problems using the browser. After you make a connection to the service, you can start browsing its pages. The function of the phone keys may vary in different services. Follow the text guides on the phone display. For more information, contact your service provider.","Explorar
+No debería ser necesario configurar manualmente el explorador en su teléfono. Normalmente esto lo hace su proveedor de servicios una vez que se ha suscrito a la función. Comuníquese con su proveedor de servicios en caso de tener problemas al usar el explorador. Tras hacer la conexión al servicio, puede empezar a explorar por sus páginas. La función de las teclas del teléfono puede variar según los servicios. Siga las instrucciones de texto en la pantalla del teléfono. Para obtener más información, consulte a su proveedor de servicios.","Sure, here is the Spanish translation of the sentence:
+
+Browse
+No es necesario configurar manualmente el navegador en tu teléfono.
+Normalmente esto se realiza por tu proveedor de servicio una vez que has suscrito al servicio.
+Si tienes problemas para usar el navegador, contacta tu proveedor de servicio.
+Después de la conexión al servicio, puedes comenzar a navegar por sus páginas. El funcionamiento de las teclas del teléfono puede variar en diferentes servicios. Sigue las guides de texto en la pantalla del teléfono. Para más información, contacta tu proveedor de servicio."
+2025-08-18 04:22:36.268620+00:00,translation,T009,gemma:2b,"Translate the following english sentence into spanish:
+Operating environment
+Remember to follow any special regulations in force in any area, and always switch off your device when its use is prohibited or when it may cause interference or danger. Use the device only in its normal operating positions. This device meets  RF exposure guidelines when used either in the normal use position against the ear or when positioned at least 5/8 inch (1.5 centimeters) away from the body. When a carry case, belt clip, or holder is used for body-worn operation, it should not contain metal and should position the device the above-stated distance from your body. To transmit data files or messages, this device requires a quality connection to the network. In some cases, transmission of data files or messages may be delayed until such a connection is available. Ensure the above separation distance instructions are followed until the transmission is completed. Parts of the device are magnetic. Metallic materials may be attracted to the device. Do not place credit cards or other magnetic storage media near the device because information stored on them may be erased.","Entorno operativo
+Respete la normativa especial vigente en la zona donde se encuentra y apague el dispositivo siempre que esté prohibido su uso, cuando pueda causar interferencia o resultar peligroso. Use el dispositivo en su posición normal de funcionamiento. Este dispositivo cumple con las normas de exposición a RF cuando es usado en su posición normal de funcionamiento, cerca del oído o portado a una distancia mínima de 5/8 de pulgada (1,5 centímetros) del cuerpo. Al portar el dispositivo en accesorios como un estuche, clip de cinturón o soporte, utilice sólo los que no contengan metal y que mantengan el dispositivo lejos del cuerpo a la distancia mínima del cuerpo, como indicada arriba. Para transmitir archivos de datos o mensajes, este dispositivo requiere una conexión de calidad a la red. En algunos casos, la transmisión de archivos de datos o mensajes pueden demorarse hasta que la conexión adecuada esté disponible. Siga las instrucciones anteriores sobre las distancias de separación hasta que la transmisión haya finalizado.Algunas piezas del dispositivo son magnéticas. Su dispositivo puede atraer materiales metálicos. No coloque tarjetas de crédito, ni otros medios magnéticos de almacenamiento de datos, cerca del dispositivo, pues la información que almacenen puede perderse.","**Español:**
+
+Ambiente de operación
+
+Tenga cuidado al seguir cualquier regla especial en vigor en cualquier área, y asegúrate de apagar tu dispositivo cuando se vuelva incorrecto o pueda causar interferencias o peligro. Utiliza el dispositivo únicamente en las posiciones de funcionamiento normales. Este dispositivo cumple con los requisitos de exposición a RF cuando se utiliza de forma correcta, tanto en la posición de uso normal contra el oído como cuando se posiciona al menos 5/8 pulgada (1.5 centímetros) del cuerpo.
+
+Cuando se utiliza un caso de transporte, belt clip o holder para la operación en el cuerpo, no contenga metal y posiciona el dispositivo lo suficientemente lejos de tu cuerpo (al menos 5/8 pulgada). Para enviar archivos de datos o mensajes, requiere una conexión de calidad que esté disponible. En algunos casos, el envío de archivos de datos o mensajes puede ser interrumpido hasta que dicha conexión esté disponible. Sigue las instrucciones de distancia superiores hasta que el envío esté completo.
+
+Las partes del dispositivo son magnética. Los materiales metálicos pueden estar atraídos al dispositivo. No coloque tarjetas de crédito o otros medios de almacenamiento magnético cerca del dispositivo porque la información almacenada en ellos puede ser eliminada."
+2025-08-18 04:28:50.582374+00:00,translation,T010,gemma:2b,"Translate the following english sentence into spanish:
+Medical devices
+Operation of any radio transmitting equipment, including wireless phones, may interfere with the functionality of inadequately protected medical devices. Consult a physician or the manufacturer of the medical device to determine if they are adequately shielded from external RF energy or if you have any questions. Switch off your device in health care facilities when any regulations posted in these areas instruct you to do so. Hospitals or health care facilities may be using equipment that could be sensitive to external RF energy. 
+Pacemakers
+Pacemaker manufacturers recommend that a minimum separation of 6 inches (15.3 centimeters) be maintained between a wireless phone and a pacemaker to avoid potential interference with the pacemaker. These recommendations are consistent with the independent research by and recommendations of Wireless Technology Research. Persons with pacemakers should do the following:
+• Always keep the device more than 6 inches (15.3 centimeters) from the pacemaker
+• Not carry the device in a breast pocket
+• Hold the device to the ear opposite the pacemaker to minimize the potential for interference.
+If you suspect interference, switch off your device, and move the device away.
+Hearing aids
+Some digital wireless devices may interfere with some hearing aids. If interference occurs, consult your service provider.","Dispositivos médicos
+Los aparatos de radiotransmisión, incluso los teléfonos móviles, pueden interferir con el funcionamiento de dispositivos médicos que no estén protegidos adecuadamente. Consulte con un médico o con el fabricante del dispositivo médico si tiene alguna pregunta o para determinar si está correctamente protegido contra las señales externas de radiofrecuencia. Apague su dispositivo en los lugares específicos de los centros de salud donde se le indique. Es probable que en los hospitales y centros de salud se utilicen equipos sensibles a las señales externas de RF.
+Marcapasos
+Los fabricantes de marcapasos recomiendan que se mantenga una separación mínima de 6 pulgadas (15,3 centímetros) entre un teléfono móvil y el marcapasos a fin de minimizar la potencia para interferencia. Estos consejos provienen de la investigación independiente y recomendaciones de la Investigación tecnológica en telefonía móvil (Wireless Technology Research). Las personas con marcapasos:
+• Deben mantener siempre una distancia de más de 6 pulgadas (15,3 centímetros) entre su dispositivo y el marcapasos
+• No deben llevar el dispositivo en el bolsillo superior de la ropa 
+• Deben utilizar el dispositivo en el oído contrario al marcapasos para minimizar las posibles interferencias. 
+Si tiene alguna razón para sospechar que existen interferencias, apague su dispositivo y aléjelo.
+Auxiliares auditivos
+Algunos dispositivos móviles digitales pueden interferir con determinados aparatos auditivos. Si sucede alguna interferencia, comuníquese con su proveedor de servicios.","**Spanish translation:**
+
+Los dispositivos médicos
+
+El funcionamiento de cualquier equipo radiotransmático, incluido los teléfonos móviles wireless, puede interferir con el funcionamiento de los dispositivos médicos inadecuadamente protegidos. Consulta al médico o al fabricante del dispositivo médico para determinar si están protegidos adecuadamente contra el energía RF externa o si tiene preguntas. Mantén la dispositivo apagado en las instalaciones de salud cuando se indican regulaciones en estos lugares. Los hospitales o las instalaciones de salud pueden estar utilizando equipos que podrían ser sensibles a la energía RF externa.
+
+Paccaros
+
+Los fabricantes de paccaros recomendarían una separación de al menos 6 pulgadas (15.3 centímetros) entre un teléfono móvil y un paccaro para evitar potenciales interferencias con el paccaro. Estas recomendaciones están basadas en los resultados de la investigación independiente de Wireless Technology Research. Las personas con paccaros deben hacer lo siguiente:
+
+• Siempre coloque el dispositivo más allá de 6 pulgadas (15.3 centímetros) del paccaro
+• No porta el dispositivo en una bolsa de pecho
+• Mantenga el dispositivo cerca del oído opuesto al paccaro para minimizar las posibilidades de interferencia.
+Si sospechas interferencia, apague el dispositivo y movifique el dispositivo lejos.
+Auditivos de sonido
+
+Algunos dispositivos wireless de sonido digital pueden interferir con algunos dispositivos de audición. Si la interferencia ocurre, consulte al servicio provider."
