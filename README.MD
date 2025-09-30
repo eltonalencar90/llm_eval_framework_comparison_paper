@@ -2,7 +2,9 @@
 
 This repository provides the experimental evidence, datasets, and implementation scripts used for the paper:
 
-**"A Domain-Specific Framework for LLM Evaluation Based on Consumer Electronics Manuals"**
+**"An LLM Evaluation Framework Applied to Q&A and Translation Tasks of User Manuals in Consumer Electronics"**
+
+![Pipeline Overview](llm-eval-tools-comparison/results_paper/bigpicture_methodology.png)
 
 ## Contents
 
