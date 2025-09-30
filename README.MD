@@ -4,7 +4,7 @@ This repository provides the experimental evidence, datasets, and implementation
 
 **"An LLM Evaluation Framework Applied to Q&A and Translation Tasks of User Manuals in Consumer Electronics"**
 
-![Pipeline Overview](llm-eval-tools-comparison/results_paper/bigpicture_methodology.png)
+![Pipeline Overview](results_paper/bigpicture_methodology.png)
 
 ## Contents
 
