@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "Q001",
+    "task": "qna",
+    "question": " My Internet connection doesn’t seem to be working. How do I set it up?",
+    "answer": "There are different types of Internet connections. For example, you can connect using a modem, a DSL connection, a wireless AirPort connection, or an Ethernet network. You will need to supply Mac OS X with specific information about your connection type, Internet service provider, or network. The first step in configuring your connection is gathering the information needed for your connection type. To find out what information you need and for instructions on how to configure your connection type, see Appendix C, “Connecting to the Internet,” on page 113. Your computer also has a Setup Assistant application to help walk you through setting up an Internet connection. Open System Preferences and click Network. Click the “Assist me” button to open Network Setup Assistant.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q002",
+    "task": "qna",
+    "question": " How do I set up my printer? Is it compatible with my MacBook Pro?",
+    "answer": "Begin by connecting your printer and installing any software according to the instructions that came with your printer. Next, open System Preferences and click the Print & Fax icon. Use the Print & Fax pane to configure your MacBook Pro to access the printer. You’ll find lots of information about setting up printers in Mac Help (choose Help > Mac Help from the menu bar and search for “printer”). Also see “Connecting to a Printer” on page 47 of this manual. If your printer isn’t working as expected, check the manufacturer’s website for updated print drivers. Often the latest printer software is available for downloading. If you sent a print job to your printer but it’s not printing, check to see if the job is stopped or on hold by clicking the printer icon in the Dock. (If no icon appears in the Dock, open Printer Setup Utility in the /Applications/Utilities/ folder and double-click the printer’s name.) If the window for the printer says “Job Stopped,” click the Start Jobs button. If “Hold” appears beside the job name, resume printing by clicking the job name and clicking Resume. If a print job has stopped printing because of a technical error, you can delete the faulty job by selecting the job and clicking Delete. You can then try printing the job again.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q003",
+    "task": "qna",
+    "question": " How does the Mac OS X interface work?",
+    "answer": "Users new to Mac OS X often have questions about how to carry out certain tasks. Your best source for Mac OS X information is Mac Help. You’ll find introductory explanations for new users, users switching from Windows computers, and users upgrading from Mac OS 9. Open Mac Help by choosing Help > Mac Help in the menu bar at the top of your screen. Browse the new Mac OS X user information listed there. Many of the basic tasks users are interested in involve the Finder, so try searching for “Finder,” too.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q004",
+    "task": "qna",
+    "question": " How do I make my MacBook Pro battery last longer?",
+    "answer": "Remember to calibrate your battery when you first use it (see “Calibrating Your Battery” on page 24). You can conserve battery power by using the Energy Saver preference pane to specify how quickly the computer should go to sleep or dim the display. Open System Preferences and click the Energy Saver icon. Choose settings that are optimized for your type of usage. Using peripheral devices such as hard disk drives, which get power from your computer, can also shorten the amount of time your battery lasts. You can conserve battery power by disconnecting such devices. You can also purchase full additional battery that you can swap in to your computer when power gets low. For more information about conserving battery power, see “Understanding Battery Conservation Tips” on page 77.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q005",
+    "task": "qna",
+    "question": " I put a disc in my optical drive, but nothing happened. How do I know if the disc is compatible with my optical drive?",
+    "answer": "Press the Media Eject (C) key to eject the disc. Apple slot-loading optical drives support only round 12 cm discs. Nonstandard discs and discs with noncircular shapes do not work in the optical drive. For more information about nonstandard discs, go to the Apple Service & Support website at www.apple.com/support and search for “nonstandard discs.” Warning:  Inserting a nonstandard disc into the optical drive can damage the drive.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q006",
+    "task": "qna",
+    "question": " How do I connect an external display, TV, or projector with a DVI connection to my MacBook Pro?",
+    "answer": "1 Turn on the external display or projector.\n2 Make sure the display cable is connected to the external projector or display.\n3 Connect the display cable to your MacBook Pro. Your MacBook Pro automatically detects the external display.\n4 Adjust the resolution on the external display by using the Displays pane of System Preferences or the Displays status menu in the menu bar.\nNote:  Use the Apple DVI to Video Adapter, available separately, to display content on your TV.\n\nTo connect an external display or projector with a VGA connection to \nyour computer:\n\n1 Turn on the external display or projector.\n2 Make sure the display cable is connected to the external projector or display.\n3 Connect the DVI to VGA adapter that came with your MacBook Pro to the VGA  connector of the external display or projector, and then connect the adapter to your MacBook Pro. Your MacBook Pro automatically detects the external display.\n4 Adjust the resolution on the external display by using the Displays pane of System Preferences or the Displays status menu in the menu bar.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q007",
+    "task": "qna",
+    "question": " I forgot my password. How do I reset it?",
+    "answer": "To reset your password, start up from the software installation disc that came with your computer. After the installer opens, choose Installer > Reset Password from the menu bar. Follow the instructions on the screen.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q008",
+    "task": "qna",
+    "question": " I hear a fan coming on and my MacBook Pro seems to get quite warm. Is that OK?",
+    "answer": "As your MacBook Pro operates, it’s designed to keep itself within safe thermal limits. The fan comes on and stays on to keep the MacBook Pro operating at normal temperatures. The bottom of your MacBook Pro can become warm because it’s designed to let heat dissipate through the case. This is normal. For more information, see “Using Your MacBook Pro” on page 106.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q009",
+    "task": "qna",
+    "question": " An application or Mac OS X doesn’t seem to be working correctly. Do I need to reinstall Mac OS X?",
+    "answer": "The process of troubleshooting a problem requires that you answer several questions, such as whether the problem always happens with a specific application, is related to your operating system, or is a result of faulty hardware. Before you reinstall, see “Troubleshooting” on page 91 to help analyze the problem. Apple also provides many technical explanations and advice for solving problems in the Apple Service & Support website at www.apple.com/support. If you determine that you must reinstall Mac OS X, you’ll find instructions in “Reinstalling the Software That Came with Your Computer” on page 97",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q010",
+    "task": "qna",
+    "question": " I installed an application on my MacBook Pro, but it doesn’t seem to be working. Where can I go for help?",
+    "answer": "Check the documentation that came with the application or the manufacturer’s website for information about how to get support. Often manufacturers are aware of common problems that might occur with their applications and provide solutions and updates for immediate use. If your application isn’t an Apple product, you’ll need to contact the manufacturer directly for the best support.",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q011",
+    "task": "qna",
+    "question": " how to prevent your battery from draining completely?",
+    "answer": "If you are going to store your MacBook Pro for an extended period of time, keep it in a cool location (ideally, 71° F or 22° C) and do one of the following to preserve your MacBook Pro battery life: Discharge the battery 50 percent before storing your MacBook Pro. When storing your computer for longer than five months, discharge the battery to approximately 50 percent and then remove it from the MacBook Pro. If you are storing your computer for an extended period, recharge your battery to 50 percent every six months or so",
+    "source_metadata": {
+      "pdf_id": "354e6140643b4c15",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "17-inch MacBook Pro",
+      "manufacture": "apple",
+      "released_year": "2006",
+      "pages": "144"
+    }
+  },
+  {
+    "id": "Q012",
+    "task": "qna",
+    "question": " What is a Recovery Area?",
+    "answer": "Samsung computers have an additional partition to recover computers or save backup files. (Only for models with the Recovery.) This partition is called a Recovery Area and it includes a recovery image that comprises of the OS and application programs.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q013",
+    "task": "qna",
+    "question": " why the The capacity representation of the hard disk drive(HDD) in Windows is different from the product specifications?",
+    "answer": "The capacity of the storage device (HDD) of the manufacturer is calculated assuming that 1KB=1,000 Bytes. However, the operating system (Windows) calculates the storage device capacity assuming that 1KB=1,024 Bytes, ulld therefore the capacity representation of the HDD in Windows is smaller than the actual capacity. The capacity representation in Windows may be smaller than the actual capacity because some programs occupy a certain area of the HDD outside of Windows. For models with Recovery, the HDD capacity representation in Windows may be smaller than the actual capacity because Recovery uses a hidden area of about 5~20GB of the HDD to save the recovery image, and that hidden area is not counted towards the total size available to Windows. The size of Recovery varies by models because of the different size of applied programs",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q014",
+    "task": "qna",
+    "question": " What is a recovery image?",
+    "answer": "This refers to the computer status (including operating system, specific driver(s), software(s), etc.) which is converted to a data image. It is required to recover your computer and is embedded in the computer's hard disk. However, this is not provided for storage devices where the capacity is less than 64 GB due to the small capacity.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q015",
+    "task": "qna",
+    "question": " How can I restore a computer that does not have the Recovery program?",
+    "answer": "You can restore the computer using the system recovery function provided by Windows. Refer to the Restore Functionality item in the Help section for more details.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q016",
+    "task": "qna",
+    "question": " I cannot find the Start button on the Desktop.",
+    "answer": "There's no Start button in Windows 8.   You can use the Control Panel, PC-running menu(s), etc. by activating the Charms menu.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q017",
+    "task": "qna",
+    "question": " I cannot find the computer's Shutdown button.",
+    "answer": "Click the Charms menu > Settings > Power to display the Power Options menu.   Click Shut down.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q018",
+    "task": "qna",
+    "question": " The App disappeared in the Start screen.",
+    "answer": "Click the Charms menu > Search to display all installed Apps. Right-click over the corresponding App to select in a Tile in the Start Screen.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q019",
+    "task": "qna",
+    "question": " Since I'm familiar with Windows 7, I would like the Desktop screen to appear as it does in Windows 7.",
+    "answer": "Currently, there is no way to set the Desktop to appear by default. Press the Windows key + D key simultaneously to reveal the Desktop when the Start screen appears. This is currently the only workaround.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q020",
+    "task": "qna",
+    "question": " How can I install a printer driver?",
+    "answer": "Run your driver installation file and follow the corresponding instructions. You can install it in the same method as the existing OS. Refer to your printer manual for detailed instructions for each model.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q021",
+    "task": "qna",
+    "question": " How can I uninstall the driver?",
+    "answer": "On the Desktop, click Charms menu > Settings > Control Panel > Programs and Features. Click the program. Then click uninstall.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q022",
+    "task": "qna",
+    "question": " How can I change the screen settings, environment settings, type size, color, and so on?",
+    "answer": "Click Charms menu > Settings > Change PC Settings > Personalization. You can set the OS settings such as the screen design, etc. To configure your computer in detail, click the Charms menu in Desktop > Settings > Control Panel. You can configure your computer in the same way as existing Windows systems.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q023",
+    "task": "qna",
+    "question": " Active X does not run in Internet Explorer on the Start screen.",
+    "answer": "Since Internet Explorer on the Start screen complies with the \nHTML5 web standards, it does not support Active X. However, \nInternet Explorer on the Desktop supports Active X.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q024",
+    "task": "qna",
+    "question": " Active X does not run in Internet Explorer on the Start screen.",
+    "answer": "Since Internet Explorer on the Start screen complies with the HTML5 web standards, it does not support Active X. However, Internet Explorer on the Desktop supports Active X.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q025",
+    "task": "qna",
+    "question": " I want to remove the pre-installed Windows 8 operating system and install a different OS.",
+    "answer": "If you want to install a different operating system on your PC, you need to change the BIOS settings first. For more information, visit http://www.samsung.com and go to Customer Support > Troubleshooting. Search for Windows 8 and look through the list of search results for the relevant issue.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q026",
+    "task": "qna",
+    "question": " The Desktop displayed on the TV after connecting via the HDMI port does not fit the screen.",
+    "answer": "Go to the Graphics Control Panel to adjust the screen settings.  ►  For Intel graphics cards Right-click over the Desktop and go to Graphics Properties > Display > General. Adjust the Horizontal Ratio and Vertical Ratio settings to fit your screen and click OK.  ►  For AMD graphics cards 1.  Right-click over the Desktop and select Graphics Properties > Desktop and Display > My Digital Flat Panel > Expansion Options (Digital Flat Panel). 2.  Adjust the control bar to fit the TV corners and click Apply.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q027",
+    "task": "qna",
+    "question": " I cannot hear any sound from the TV after connecting via the HDMI port.",
+    "answer": "1.  Right-click over the taskbar on the Desktop and click Play Device. 2.  Change the option to Digital Audio (HDMI), HDMI device, HDMI Output or another option and click Set as Default. Then click OK.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q028",
+    "task": "qna",
+    "question": " how can I configure my computer in the same way as existing Windows systems?",
+    "answer": "You can configure your computer in the same way as existing Windows systems.  If you want to start your computer in DOS via a USB device, set the Fast BIOS Mode item in the Advanced menu in the BIOS Setup to Disabled before using this feature.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q029",
+    "task": "qna",
+    "question": " how to use the Touch keyboard and handwriting mode?",
+    "answer": "1 From the Start Screen, right-click any area and select All Apps  in the bottom right corner. Then, click Notepad. \n2 Put your hand on the Notepad screen to display the cursor.\n3 On the Desktop, press the  at the right of the taskbar to display the Tablet PC Input Panel. Touch keyboard  (displays the Numeric Key Pad in the middle.) \n\nHandwriting Mode [Input Mode]\nEntering characters using the Touch keyboard The Touch keyboard has the standard keyboard layout which allows you to select keys to enter characters.\n1 Press the Touch keyboard icon  in the Tablet PC Input Panel.\n2 Press the keys to enter your characters. Entering characters in Handwriting Mode \nYou can enter characters by writing them in the Handwriting Mode Input Panel on the touch screen.\n1 Press the Handwriting Mode icon  in Tablet PC Input Panel.\n2 Write characters in the input area of the Handwriting Mode Input Panel on the touch screen.\n3 Press the Insert button to enter characters.",
+    "source_metadata": {
+      "pdf_id": "f79ad0bd026008b1",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Samsung NP520U4C",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "161"
+    }
+  },
+  {
+    "id": "Q030",
+    "task": "qna",
+    "question": " What is Progressive Scan?",
+    "answer": "Progressive scan has twice as many scanning lines as the interlace output method. Progressive scanning method provides better and clearer picture quality.",
+    "source_metadata": {
+      "pdf_id": "8ba671fb2296c8c4",
+      "doc_type": "user_manual",
+      "language": "portuguese",
+      "product_type": "DVD Player",
+      "market_name": "DVD-HD870",
+      "manufacture": "samsung",
+      "released_year": "2007",
+      "pages": "40"
+    }
+  },
+  {
+    "id": "Q031",
+    "task": "qna",
+    "question": " Why does Samsung use HDMI?",
+    "answer": "Analog TVs require an analog video/audio signal. However, when playing a DVD, the signal transmitted to a TV is digital. Therefore either a digital-to-analog converter (in the DVD player) or an analog-to-digital converter (in the TV) is required. During this conversion, the picture quality is degraded due to noise and signal loss. DVI technology is superior because it requires no D/A conversion and is a pure digital signal from the player to your TV",
+    "source_metadata": {
+      "pdf_id": "8ba671fb2296c8c4",
+      "doc_type": "user_manual",
+      "language": "portuguese",
+      "product_type": "DVD Player",
+      "market_name": "DVD-HD870",
+      "manufacture": "samsung",
+      "released_year": "2007",
+      "pages": "40"
+    }
+  },
+  {
+    "id": "Q032",
+    "task": "qna",
+    "question": " What is the HDCP?",
+    "answer": "HDCP (High-bandwidth Digital Content Protection) is a system for protecting DVD content outputted via DVI from being copied. It provides a secure digital link between a video source (PC, DVD. etc) and a display device (TV, projector . etc). Content is encrypted at the source device to prevent unauthorized copies from being made.",
+    "source_metadata": {
+      "pdf_id": "8ba671fb2296c8c4",
+      "doc_type": "user_manual",
+      "language": "portuguese",
+      "product_type": "DVD Player",
+      "market_name": "DVD-HD870",
+      "manufacture": "samsung",
+      "released_year": "2007",
+      "pages": "40"
+    }
+  },
+  {
+    "id": "Q033",
+    "task": "qna",
+    "question": " What is the HDMI Conector?",
+    "answer": "HDMI enables you to make a digital video and audio connection with a single cable. Using HDMI, the DVD player transmits a digital video and audio signal and displays a vivid picture on a TV having an HDMI input jack. HDMI connector - Video and audio are transferred digitally without compression (LPCM or Bit Stream data). \n- The player outputs a pure digital signal to the TV through an HDMI cable.\n- If TV does not support HDCP (High-bandwidth Digital content protection), snow noise appears on the screen.",
+    "source_metadata": {
+      "pdf_id": "8ba671fb2296c8c4",
+      "doc_type": "user_manual",
+      "language": "portuguese",
+      "product_type": "DVD Player",
+      "market_name": "DVD-HD870",
+      "manufacture": "samsung",
+      "released_year": "2007",
+      "pages": "40"
+    }
+  },
+  {
+    "id": "Q034",
+    "task": "qna",
+    "question": " how to use the setup menu",
+    "answer": "See pages 52 ~ 54 to get more information on how to use the setup menu.",
+    "source_metadata": {
+      "pdf_id": "8ba671fb2296c8c4",
+      "doc_type": "user_manual",
+      "language": "portuguese",
+      "product_type": "DVD Player",
+      "market_name": "DVD-HD870",
+      "manufacture": "samsung",
+      "released_year": "2007",
+      "pages": "40"
+    }
+  },
+  {
+    "id": "Q035",
+    "task": "qna",
+    "question": " What is Covered and For How Long?",
+    "answer": "SAMSUNG TELECOMMUNICATIONS AMERICA, LLC (SAMSUNG) warrants to the original purchaser (Purchaser) that SAMSUNG’s Tablets  and accessories (Products) are free from defects in material and workmanship under normal use and service for the period commencing upon the date of purchase and continuing for the following specified period of time after that date: Phone 1 Year Batteries 1 Year Case/Pouch/Holster 90 Days",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q036",
+    "task": "qna",
+    "question": " What is Not Covered?",
+    "answer": "This Limited Warranty is conditioned upon proper use of Product by Purchaser.  This Limited Warranty does not cover: (a) defects or damage resulting from accident, misuse, abnormal use, abnormal conditions, improper storage, exposure to moisture or dampness, neglect, unusual physical, electrical or electromechanical stress, or defects in appearance, cosmetic, decorative or structural items, including framing, and any non-operative parts unless caused by SAMSUNG; (b) defects or damage resulting from excessive force or use of a metallic object when pressing on a touch screen; (c) equipment that has the serial number or the enhancement data code removed, defaced, damaged, altered or made illegible; (d) any plastic surfaces or other externally exposed parts that are scratched or damaged due to normal use; (e) malfunctions resulting from the use of Product in conjunction or connection with accessories, products, or ancillary/peripheral equipment not furnished or approved by SAMSUNG; (f) defects or damage from improper testing, operation, maintenullce, installation, service, or adjustment not furnished or approved by SAMSUNG; (g) defects or damage from external causes such as collision with an object, or from fire, flooding, sand, dirt, windstorm, lightning, earthquake, or from exposure to weather conditions, or battery leakage, theft, blown fuse, or improper use of any electrical source; (h) defects or damage caused by cellular signal reception or transmission, or viruses or other software problems introduced into the Product; (i) any other acts which are not the fault of SAMSUNG; or (j) Product used or purchased outside the United States.  This Limited Warranty covers batteries only if battery capacity falls below 80% of rated capacity or the battery leaks, and this Limited Warranty does not cover any battery if (i) the battery as been charged by a battery charger not specified or approved by SAMSUNG for charging the battery, (ii) any of the seals on the battery are broken or show evidence of tampering, or (iii) the battery has been used in equipment other than the SAMSUN Tablet for which it is specified.",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q037",
+    "task": "qna",
+    "question": " What are SAMSUNG’s Obligations?",
+    "answer": "During the applicable warranty period, SAMSUNG will repair or replace, at SAMSUNG’s sole option, without charge to Purchaser, any defective component part of Product.  To obtain service under this Limited Warranty, Purchaser must return Product to an authorized Tablet service facility in an adequate container for shipping, accompanied by Purchaser’s sales receipt or comparable substitute proof of sale showing the original date of purchase, the serial number of Product and the sellers’ name and address.  To obtain assistance on where to deliver the Product, call Samsung Customer Care at  1-888-987-4357.  Upon receipt, SAMSUNG will contently repair or replace the defective Product. SAMSUNG may, at SAMSUNG’s sole option, use rebuilt, reconditioned, or new parts or components when repairing any Product or replace Product with a rebuilt, reconditioned or new Product. Repaired/replaced cases will be warranted for a period of ninety (90) days.  All other repaired/replaced Product will be warranted for a period equal to the remainder of the original Limited Warranty on the original Product or for 90 days, whichever is longer.  All replaced parts, components, boards and equipment shall become the property of SAMSUNG.  If SAMSUNG determines that any Product is not covered by this Limited Warranty, Purchaser must pay all parts, shipping, and labor charges for the repair or return of such Product.",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q038",
+    "task": "qna",
+    "question": " What Are The Limits On Samsung’s Warranty/liability",
+    "answer": "EXCEPT AS EXCEPT AS SET FORTH IN THE EXPRESS WARRANTY CONTAINED HEREIN, PURCHASER TAKES THE PRODUCT AS IS, AND SAMSUNG MAKES NO WARRANTY OR REPRESENTATION AND THERE ARE NO CONDITIONS, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, OF ullY KIND WHATSOEVER WITH RESPECT TO THE PRODUCT, INCLUDING BUT NOT LIMITED TO:\n• THE MERCHANTABILITY OF THE PRODUCT OR ITS FITNESS FOR ANY PARTICULAR PURPOSE OR USE;\n• WARRANTIES OF TITLE OR NON-INFRINGEMENT;\n• DESIGN, CONDITION, QUALITY, OR PERFORMANCE OF THE PRODUCT;\n• THE WORKMANSHIP OF THE PRODUCT OR THE COMPONENTS CONTAINED THEREIN; OR\n• COMPLIANCE OF THE PRODUCT WITH THE REQUIREMENTS OF ANY LAW, RULE, SPECIFICATION OR CONTRACT PERTAINING THERETO.  \nNOTHING CONTAINED IN THE INSTRUCTION MANUAL SHALL BE CONSTRUED TO CREATE AN EXPRESS WARRANTY OF ANY KIND WHATSOEVER WITH RESPECT TO THE PRODUCT.  ALL IMPLIED WARRANTIES AND CONDITIONS THAT MAY ARISE BY OPERATION OF LAW, INCLUDING IF APPLICABLE THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ARE HEREBY LIMITED TO THE SAME DURATION OF TIME AS THE EXPRESS WRITTEN WARRANTY STATED HEREIN.  SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.  IN ADDITION, SAMSUNG SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND RESULTING FROM THE PURCHASE, USE, OR MISUSE OF, OR INABILITY TO USE THE PRODUCT OR ARISING DIRECTLY OR INDIRECTLY FROM THE USE OR LOSS OF USE OF THE PRODUCT OR FROM THE BREACH OF THE EXPRESS WARRANTY, INCLUDING INCIDENTAL, SPECIAL, CONSEQUENTIAL OR SIMILAR DAMAGES, OR LOSS OF ANTICIPATED PROFITS OR BENEFITS, OR FOR DAMAGES ARISING FROM ANY TORT(INCLUDING NEGLIGENCE OR GROSS NEGLIGENCE) OR FAULT COMMITTED BY SAMSUNG, ITS AGENTS OR EMPLOYEES, OR FOR ANY BREACH OF CONTRACT OR FOR ANY CLAIM BROUGHT AGAINST PURCHASER BY ANY OTHER PARTY.  SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS, WHICH VARY FROM STATE TO STATE.   THIS LIMITED WARRANTY SHALL NOT EXTEND TO ANYONE OTHER THAN THE ORIGINAL PURCHASER OF THIS PRODUCT AND STATES PURCHASER’S EXCLUSIVE REMEDY.  IF ANY PORTION OF THIS LIMITED WARRANTY IS HELD ILLEGAL OR UNENFORCEABLE BY REASON OF ANY LAW, SUCH PARTIAL ILLEGALITY OR UNENFORCEABILITY SHALL NOT AFFECT THE ENFORCEABILITY FOR THE REMAINDER OF THIS LIMITED WARRANTY WHICH PURCHASER ACKNOWLEDGES IS AND WILL ALWAYS BE CONSTRUED TO BE LIMITED BY ITS TERMS OR AS LIMITED AS THE LAW PERMITS. THE PARTIES UNDERSTAND THAT THE PURCHASER MAY USE THIRD-PARTY SOFTWARE OR EQUIPMENT IN CONJUNCTION WITH THE PRODUCT.  SAMSUNG MAKES NO WARRANTIES OR REPRESENTATIONS ullD THERE ARE NO CONDITIONS, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, AS TO THE QUALITY, CAPABILITIES, OPERATIONS, PERFORMANCE OR SUITABILITY OF ANY THIRD-PARTY SOFTWARE OR EQUIPMENT, WHETHER SUCH THIRD-PARTY SOFTWARE OR EQUIPMENT IS INCLUDED WITH THE PRODUCT DISTRIBUTED BY SAMSUNG OR OTHERWISE, INCLUDING THE ABILITY TO INTEGRATE ANY SUCH  SOFTWARE OR EQUIPMENT WITH THE PRODUCT.  THE QUALITY, CAPABILITIES, OPERATIONS, PERFORMANCE AND SUITABILITY OF ANY SUCH THIRD-PARTY SOFTWARE OR EQUIPMENT LIE SOLELY WITH THE PURCHASER AND THE DIRECT VENDOR, OWNER OR SUPPLIER OF SUCH THIRD-PARTY SOFTWARE OR EQUIPMENT, AS THE CASE MAY BE\n",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q039",
+    "task": "qna",
+    "question": "  how to select the desired text input method",
+    "answer": "There are two text input methods available:\n• Samsung Keypad (default): an on-screen QWERTY keypad that can be used in both portrait and landscape orientation.\n• Swype: a new way to enter text on touch screens. Instead of tapping each key, use your finger to trace over each letter of a word. \nThe on-screen QWERTY keypad works the same in both portrait ulld landscape mode\n\nEntering Text Using the Samsung QWERTY Keypad From a screen where you can enter text, rotate your tablet counterclockwise to a Landscape orientation. The on-screen QWERTY keypad will display.\n\nChanging the Text Input Mode - Keypad There are two main keypad layout keys that will change the on-screen keys within the QWERTY keypad.\nThe available Text Input modes are: Sym and Abc.",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q040",
+    "task": "qna",
+    "question": " how to use the Media Hub?",
+    "answer": "1Tap Menu button then tap the Media Hub .\n2. Read the End-User License Agreement (EULA) and tap Accept to continue or Decline to exit. The Media Hub screen displays\n3. At the Media Hub screen, the following options appear:\n• New in store: shows recently added media that you can rent or purchase.\n• My Media : allows you to view all of the media that you have purchased or rented. Tap a media entry to view it.\n• Movie Store: displays movies that are available for rent or purchase. Scroll through the movie categories at the top of the screen. Tap a category and then movies of that type will be displayed below. \n• TV Store: displays TV shows that are available for purchase. Scroll  through the movie categories at the top of the screen. Tap a category and then TV shows of that type will be displayed below. \n4. Scroll through the media listings and tap on an item you would like to purchase or rent.\n5. Information concerning the media displays. Tap WATCH PREVIEW to watch a short preview or tap Rent or Own.\n6. Sign on to your Google account. For more information, refer to “Signing into Your Gmail”  on page 62.\n7. In order to rent or buy media, you must first create a Media Hub account. Press  ➔ My Account.\n8. Tap CREATE ACCOUNT and use the keypad to enter the required information.\n9. Choose a payment method and then follow the on-screen instructions.\n10. Your purchase is stored in the My Media section.",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q041",
+    "task": "qna",
+    "question": " what is Media Hub?",
+    "answer": "Samsung Media Hub is your one stop for the hottest movie and TV content. With hundreds of titles available at your fingertips, entertaining yourself or your kids on the go has never been easier. You can rent or purchase your favorite content and watch from the convenience of anywhere. Featuring the stunning viewing quality Samsung is known for, Samsung Media Hub is your gateway to mobile video like you’ve never experienced it before. Note: Media Hub usage is based on service availability",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q042",
+    "task": "qna",
+    "question": " what is the music player multimedia feature?",
+    "answer": "The Music Player is an application that can play music files. The music player supports files with extensions AAC, AAC+, eAAC+, MP3, WMA, 3GP, MP4, and M4A. Launching the Music Player allows you to navigate through your music library, play songs, ulld create playlists (music files bigger than 300 KB are displayed).",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q043",
+    "task": "qna",
+    "question": " how to play music?",
+    "answer": "1. Tap  ➔ Music .\n2. Tap a library category at the top of the screen (Songs, Playlists, Albums, Artists, or Genres) to view the available music files. \n3. Scroll through the list of songs and tap an entry to begin playback.",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q044",
+    "task": "qna",
+    "question": " what is playlists?",
+    "answer": "Playlists are used to assign songs to a list of preferred media which can then be grouped into a list for later playback. These Playlists can be created via either the handset’s Music Player options menu or from within a 3rd party music application (such as Windows Media Player) and then downloaded to the handset.",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q045",
+    "task": "qna",
+    "question": " how to create a playlist?",
+    "answer": "1. From the Home screen, tap the menu button then Music .\n2. Tap the Playlists tab.\n3. Press  ➔ New playlist.\n4. Type a name for this playlist in the field and tap Done",
+    "source_metadata": {
+      "pdf_id": "c6d7b352cd7c23e0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "tablet",
+      "market_name": "Samsung Galaxy Tab",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "146"
+    }
+  },
+  {
+    "id": "Q046",
+    "task": "qna",
+    "question": " How to use my old Apple ID?",
+    "answer": "Already have an Apple ID? Tap the Sign In With An Apple ID button and enter your username usually your email address) and password. Apple will then spend a few moments linking your device to your Apple ID.",
+    "source_metadata": {
+      "pdf_id": "1cb374bdb0e6b7ed",
+      "doc_type": "guide",
+      "language": "english",
+      "product_type": "smarphone",
+      "market_name": "Iphone 4S",
+      "manufacture": "apple",
+      "released_year": "2011",
+      "pages": "75"
+    }
+  },
+  {
+    "id": "Q047",
+    "task": "qna",
+    "question": " What is Apple ID?",
+    "answer": "Your Apple ID is an email address: one you already use, or a new email you create on the spot.",
+    "source_metadata": {
+      "pdf_id": "1cb374bdb0e6b7ed",
+      "doc_type": "guide",
+      "language": "english",
+      "product_type": "smarphone",
+      "market_name": "Iphone 4S",
+      "manufacture": "apple",
+      "released_year": "2011",
+      "pages": "75"
+    }
+  },
+  {
+    "id": "Q048",
+    "task": "qna",
+    "question": " How to Create a new Apple ID?",
+    "answer": "If you don’t have an Apple ID, it’s easy enough to create one by tapping the Create A Free Apple ID button. You need to enter your birthday, name, email address (or create a new iCloud email address), a password, a security question (in case you forget your password), and whether you’d like to receive email updates from Apple. Once you’ve entered all your information, you’re asked to read and agree to the terms and conditions, and Apple will register your Apple ID.",
+    "source_metadata": {
+      "pdf_id": "1cb374bdb0e6b7ed",
+      "doc_type": "guide",
+      "language": "english",
+      "product_type": "smarphone",
+      "market_name": "Iphone 4S",
+      "manufacture": "apple",
+      "released_year": "2011",
+      "pages": "75"
+    }
+  },
+  {
+    "id": "Q049",
+    "task": "qna",
+    "question": " how to launch an app?",
+    "answer": "Want to launch an app? To open it, all you have to do is tap its icon. Once it’s open, you can return to the home screen at any time by pressing the Home button.",
+    "source_metadata": {
+      "pdf_id": "1cb374bdb0e6b7ed",
+      "doc_type": "guide",
+      "language": "english",
+      "product_type": "smarphone",
+      "market_name": "Iphone 4S",
+      "manufacture": "apple",
+      "released_year": "2011",
+      "pages": "75"
+    }
+  },
+  {
+    "id": "Q050",
+    "task": "qna",
+    "question": " What is iCloud?",
+    "answer": "In short, iCloud is a catchall term that covers Apple’s entire suite of wireless syncing and backup services, which aim to keep your devices—both iOS and desktop computers running OS X Lion, Windows Vista, or Windows 7—on the same page, no matter which one you’re using at any given moment. Broken down, those services cover four areas: document ulld data syncing, mobile backup, location awareness, and purchase management.",
+    "source_metadata": {
+      "pdf_id": "1cb374bdb0e6b7ed",
+      "doc_type": "guide",
+      "language": "english",
+      "product_type": "smarphone",
+      "market_name": "Iphone 4S",
+      "manufacture": "apple",
+      "released_year": "2011",
+      "pages": "75"
+    }
+  },
+  {
+    "id": "Q051",
+    "task": "qna",
+    "question": " How Do I Merge My MobileMe account?",
+    "answer": "If you have a MobileMe account you’d like to move to iCloud, make sure you know what you’re potentially getting rid of before you do anything. While iCloud shares many of MobileMe’s features, it’s axed a few others: namely, iWeb publishing; Gallery; iDisk; and OS X syncing of Dashboard widgets, keychains, Dock items, and System Preferences. If you choose to move over your account, make sure you read Apple’s FAQ on the matter to ensure you’re not accidentally deleting data you haven’t backed up.",
+    "source_metadata": {
+      "pdf_id": "1cb374bdb0e6b7ed",
+      "doc_type": "guide",
+      "language": "english",
+      "product_type": "smarphone",
+      "market_name": "Iphone 4S",
+      "manufacture": "apple",
+      "released_year": "2011",
+      "pages": "75"
+    }
+  },
+  {
+    "id": "Q052",
+    "task": "qna",
+    "question": " What is ceiling shape recognition?",
+    "answer": "This function recognizes the shape of the ceiling using the camera on top to identify the area to be cleaned and determines the best way to pass over and clean every section of the floor.",
+    "source_metadata": {
+      "pdf_id": "2548a9360a4d3bd0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "Vacuum Cleaning Robot",
+      "market_name": "Samsung Vacuum Cleaning Robot",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "56"
+    }
+  },
+  {
+    "id": "Q053",
+    "task": "qna",
+    "question": " Is the dust bin assembled?",
+    "answer": "Install the dust bin.",
+    "source_metadata": {
+      "pdf_id": "2548a9360a4d3bd0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "Vacuum Cleaning Robot",
+      "market_name": "Samsung Vacuum Cleaning Robot",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "56"
+    }
+  },
+  {
+    "id": "Q054",
+    "task": "qna",
+    "question": " Is the battery level flashing only one level and is ‘Lo’ displayed in the display panel?",
+    "answer": "Lift up the vacuum cleaning robot, and manually dock the vacuum cleaning robot onto the charger to charge it.",
+    "source_metadata": {
+      "pdf_id": "2548a9360a4d3bd0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "Vacuum Cleaning Robot",
+      "market_name": "Samsung Vacuum Cleaning Robot",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "56"
+    }
+  },
+  {
+    "id": "Q055",
+    "task": "qna",
+    "question": " Is the vacuum cleaning robot stuck on the doorsill?",
+    "answer": "Turn off the Power Switch and move the vacuum cleaning robot to another place to clean.",
+    "source_metadata": {
+      "pdf_id": "2548a9360a4d3bd0",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "Vacuum Cleaning Robot",
+      "market_name": "Samsung Vacuum Cleaning Robot",
+      "manufacture": "samsung",
+      "released_year": "",
+      "pages": "56"
+    }
+  },
+  {
+    "id": "Q056",
+    "task": "qna",
+    "question": " Will I know if I'm receiving an incoming call while I'm viewing or listening to an audio clip?",
+    "answer": "No. All incoming calls will roll into voicemail while you are playing a clip. If the caller leaves a voicemail, the voicemail icon will appear on the screen.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q057",
+    "task": "qna",
+    "question": " How long are the clips? Will I know the estimated time it will take to play the clip prior to accessing it?",
+    "answer": "Once you have selected a channel, you will see a listing of the available clips, with the clip's length appearing after the clip's title. In general, a clip's duration will depend on the story or content being provided, and can be fairly short or as long as a few minutes.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q058",
+    "task": "qna",
+    "question": " Can I access a multimedia clip wherever I am, as long as I have my phone?",
+    "answer": "As long as you are on the Nationwide Sprint PCS Network, you will have access to the audio and video clips.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q059",
+    "task": "qna",
+    "question": "are the videos that I'm viewing “live” videos?",
+    "answer": "It depends on the content provider. Some of the channels available through Sprint TV stream live content. Others provide media on demand with video ulld audio clips that are refreshed throughout the day, but that are not “live.”",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q060",
+    "task": "qna",
+    "question": " After purchasing access to an Available Channel for a monthly fee, do I receive any confirmation? That is, how do I know it has been purchased?",
+    "answer": "The next time you access your media player's Channel Listings, the purchased channel title and corresponding number will appear in the My Channels section",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q061",
+    "task": "qna",
+    "question": " Why are some channels already preloaded into the My channels section?",
+    "answer": "Some channels, such as Previews, are offered free of charge as a customer courtesy. These channels automatically appear in the My Channels section of your Channel Listings.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q062",
+    "task": "qna",
+    "question": " If I don't subscribe to Sprint PCS Vision Plan, am I still able to view the multimedia clips?",
+    "answer": "Yes; for service access charges, please consult your Sprint PCS Service Plan or visit www.sprint.com",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q063",
+    "task": "qna",
+    "question": " How can I easily access a channel without having to scroll through all the channels in my Channel Listings?",
+    "answer": "Each channel will have a number to the left of it. You  can simply press this number to quickly access the clips located within that channel",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q064",
+    "task": "qna",
+    "question": " What does it mean when the video pauses and I see the word “loading” at the bottom of the screen?",
+    "answer": "This happens when the media player is in the process of loading the data necessary to play the clip. It typically occurs when there is heavy traffic on the network",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q065",
+    "task": "qna",
+    "question": " How can I cancel service if I decide I don't want it?",
+    "answer": "To cancel your Sprint TV Service, visit www.sprint.com and sign on to My PCS with your account number and password. From this page you have the ability to cancel the service and/or any Available Channels to which you subscribe.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q066",
+    "task": "qna",
+    "question": " If I place my stereo headphones on and insert them into the phone's headset jack, can I close the flip while I am playing ull audio (or video) clip without interrupting the clip?",
+    "answer": "Yes. When you insert your stereo headset into the phone's headset jack, the phone automatically goes into “headset mode,” allowing you to close the flip and continue playing the clip. (Likewise, if your phone is in “headset mode,” a phone call will not become disconnected by closing the flip.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q067",
+    "task": "qna",
+    "question": " Can I surf to a different channel while I am playing a clip?'",
+    "answer": "Yes; while you are playing a clip, you can use the up and down navigation buttons to surf to a different channel. A small pop-up screen will appear that tells you which channel you are watching as well as other channels you have access to. Use the navigation buttons to scroll through the different channels. Once you find a channel that you want to watch, scroll to it and press  (or simply wait approximately three seconds) and the channel will begin loading. ",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q068",
+    "task": "qna",
+    "question": " How will I know when my phone is ready for Sprint PCS Vision service?",
+    "answer": "Your user name (for example, bsmith001@sprint.com) will be displayed in the Phone Info. listing in your phone’s Settings menu.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q069",
+    "task": "qna",
+    "question": " How do I sign in for the first time?",
+    "answer": "You are automatically signed in to access Sprint PCS Vision services when you turn on your phone. ",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q070",
+    "task": "qna",
+    "question": " How do I know when my phone is connected to Sprint PCS Vision services?",
+    "answer": "Your phone automatically connects when Sprint PCS Vision service is used or an incoming message arrives. Your phone will also display the  indicator. When you enter an area in which Sprint Power Vision service is available, you will see the  icon.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q071",
+    "task": "qna",
+    "question": " Can I make calls and use Sprint PCS Vision services at the same time?",
+    "answer": "You cannot use voice and Sprint PCS Vision services simultaneously. If you receive a call while Sprint PCS Vision service is active, the call will be forwarded to voicemail. You can place an outgoing call anytime, but it will interrupt any in-progress Sprint PCS Vision session.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q072",
+    "task": "qna",
+    "question": " When is my data connection active?",
+    "answer": "Your connection is active when data is being transferred. Outgoing calls are allowed; incoming calls go directly to voicemail. When active, the  or  indicator flashes on your phone’s display screen.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q073",
+    "task": "qna",
+    "question": " When is my data connection dormant?",
+    "answer": "If no data is received for 10 seconds, the connection goes dormant. When the connection is dormant, voice calls are allowed. (The connection may become active again quickly.) If no data is received for an extended period of time, the connection will terminate.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q074",
+    "task": "qna",
+    "question": " Can I sign out of data services?",
+    "answer": "You can sign out without turning off your phone; however, you will not be able to browse the Web or use other Sprint PCS Vision services. While signed out, you can still place or receive phone calls, check voicemail, and use other voice services. You may sign in again at any time. To sign out, go to Settings > Power Vision > Disable Vision in your phone’s menu.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q075",
+    "task": "qna",
+    "question": " What is Covered and For How Long?",
+    "answer": "SAMSUNG TELECOMMUNICATIONS AMERICA, LLC (SAMSUNG) warrants to the original purchaser (Purchaser) that SAMSUNG’s Tablets  and accessories (Products) are free from defects in material and workmanship under normal use and service for the period commencing upon the date of purchase and continuing for the following specified period of time after that date: Phone 1 Year Batteries 1 Year Case/Pouch/Holster 90 Days",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q076",
+    "task": "qna",
+    "question": " What is Not Covered?",
+    "answer": "This Limited Warranty is conditioned upon proper use of Product by Purchaser.  This Limited Warranty does not cover: (a) defects or damage resulting from accident, misuse, abnormal use, abnormal conditions, improper storage, exposure to moisture or dampness, neglect, unusual physical, electrical or electromechanical stress, or defects in appearance, cosmetic, decorative or structural items, including framing, and any non-operative parts unless caused by SAMSUNG; (b) defects or damage resulting from excessive force or use of a metallic object when pressing on a touch screen; (c) equipment that has the serial number or the enhancement data code removed, defaced, damaged, altered or made illegible; (d) any plastic surfaces or other externally exposed parts that are scratched or damaged due to normal use; (e) malfunctions resulting from the use of Product in conjunction or connection with accessories, products, or ancillary/peripheral equipment not furnished or approved by SAMSUNG; (f) defects or damage from improper testing, operation, maintenullce, installation, service, or adjustment not furnished or approved by SAMSUNG; (g) defects or damage from external causes such as collision with an object, or from fire, flooding, sand, dirt, windstorm, lightning, earthquake, or from exposure to weather conditions, or battery leakage, theft, blown fuse, or improper use of any electrical source; (h) defects or damage caused by cellular signal reception or transmission, or viruses or other software problems introduced into the Product; (i) any other acts which are not the fault of SAMSUNG; or (j) Product used or purchased outside the United States.  This Limited Warranty covers batteries only if battery capacity falls below 80% of rated capacity or the battery leaks, and this Limited Warranty does not cover any battery if (i) the battery as been charged by a battery charger not specified or approved by SAMSUNG for charging the battery, (ii) any of the seals on the battery are broken or show evidence of tampering, or (iii) the battery has been used in equipment other than the SAMSUN Tablet for which it is specified.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q077",
+    "task": "qna",
+    "question": " What are SAMSUNG's Obligations",
+    "answer": "During the applicable warranty period, SAMSUNG will repair or replace, at SAMSUNG’s sole option, without charge to Purchaser, any defective component part of Product.  To obtain service under this Limited Warranty, Purchaser must return Product to an authorized Tablet service facility in an adequate container for shipping, accompanied by Purchaser’s sales receipt or comparable substitute proof of sale showing the original date of purchase, the serial number of Product and the sellers’ name and address.  To obtain assistance on where to deliver the Product, call Samsung Customer Care at  1-888-987-4357.  Upon receipt, SAMSUNG will contently repair or replace the defective Product. SAMSUNG may, at SAMSUNG’s sole option, use rebuilt, reconditioned, or new parts or components when repairing any Product or replace Product with a rebuilt, reconditioned or new Product. Repaired/replaced cases will be warranted for a period of ninety (90) days.  All other repaired/replaced Product will be warranted for a period equal to the remainder of the original Limited Warranty on the original Product or for 90 days, whichever is longer.  All replaced parts, components, boards and equipment shall become the property of SAMSUNG.  If SAMSUNG determines that any Product is not covered by this Limited Warranty, Purchaser must pay all parts, shipping, and labor charges for the repair or return of such Product.",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q078",
+    "task": "qna",
+    "question": " What Are the Limits On SAMSUNG's Liability?",
+    "answer": "EXCEPT AS EXCEPT AS SET FORTH IN THE EXPRESS WARRANTY CONTAINED HEREIN, PURCHASER TAKES THE PRODUCT AS IS, AND SAMSUNG MAKES NO WARRANTY OR REPRESENTATION AND THERE ARE NO CONDITIONS, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, OF ullY KIND WHATSOEVER WITH RESPECT TO THE PRODUCT, INCLUDING BUT NOT LIMITED TO:\n• THE MERCHANTABILITY OF THE PRODUCT OR ITS FITNESS FOR ANY PARTICULAR PURPOSE OR USE;\n• WARRANTIES OF TITLE OR NON-INFRINGEMENT;\n• DESIGN, CONDITION, QUALITY, OR PERFORMANCE OF THE PRODUCT;\n• THE WORKMANSHIP OF THE PRODUCT OR THE COMPONENTS CONTAINED THEREIN; OR\n• COMPLIANCE OF THE PRODUCT WITH THE REQUIREMENTS OF ANY LAW, RULE, SPECIFICATION OR CONTRACT PERTAINING THERETO.  \nNOTHING CONTAINED IN THE INSTRUCTION MANUAL SHALL BE CONSTRUED TO CREATE AN EXPRESS WARRANTY OF ANY KIND WHATSOEVER WITH RESPECT TO THE PRODUCT.  ALL IMPLIED WARRANTIES AND CONDITIONS THAT MAY ARISE BY OPERATION OF LAW, INCLUDING IF APPLICABLE THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ARE HEREBY LIMITED TO THE SAME DURATION OF TIME AS THE EXPRESS WRITTEN WARRANTY STATED HEREIN.  SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.  IN ADDITION, SAMSUNG SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND RESULTING FROM THE PURCHASE, USE, OR MISUSE OF, OR INABILITY TO USE THE PRODUCT OR ARISING DIRECTLY OR INDIRECTLY FROM THE USE OR LOSS OF USE OF THE PRODUCT OR FROM THE BREACH OF THE EXPRESS WARRANTY, INCLUDING INCIDENTAL, SPECIAL, CONSEQUENTIAL OR SIMILAR DAMAGES, OR LOSS OF ANTICIPATED PROFITS OR BENEFITS, OR FOR DAMAGES ARISING FROM ANY TORT(INCLUDING NEGLIGENCE OR GROSS NEGLIGENCE) OR FAULT COMMITTED BY SAMSUNG, ITS AGENTS OR EMPLOYEES, OR FOR ANY BREACH OF CONTRACT OR FOR ANY CLAIM BROUGHT AGAINST PURCHASER BY ANY OTHER PARTY.  SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS, WHICH VARY FROM STATE TO STATE.   THIS LIMITED WARRANTY SHALL NOT EXTEND TO ANYONE OTHER THAN THE ORIGINAL PURCHASER OF THIS PRODUCT AND STATES PURCHASER’S EXCLUSIVE REMEDY.  IF ANY PORTION OF THIS LIMITED WARRANTY IS HELD ILLEGAL OR UNENFORCEABLE BY REASON OF ANY LAW, SUCH PARTIAL ILLEGALITY OR UNENFORCEABILITY SHALL NOT AFFECT THE ENFORCEABILITY FOR THE REMAINDER OF THIS LIMITED WARRANTY WHICH PURCHASER ACKNOWLEDGES IS AND WILL ALWAYS BE CONSTRUED TO BE LIMITED BY ITS TERMS OR AS LIMITED AS THE LAW PERMITS. THE PARTIES UNDERSTAND THAT THE PURCHASER MAY USE THIRD-PARTY SOFTWARE OR EQUIPMENT IN CONJUNCTION WITH THE PRODUCT.  SAMSUNG MAKES NO WARRANTIES OR REPRESENTATIONS ullD THERE ARE NO CONDITIONS, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, AS TO THE QUALITY, CAPABILITIES, OPERATIONS, PERFORMANCE OR SUITABILITY OF ANY THIRD-PARTY SOFTWARE OR EQUIPMENT, WHETHER SUCH THIRD-PARTY SOFTWARE OR EQUIPMENT IS INCLUDED WITH THE PRODUCT DISTRIBUTED BY SAMSUNG OR OTHERWISE, INCLUDING THE ABILITY TO INTEGRATE ANY SUCH  SOFTWARE OR EQUIPMENT WITH THE PRODUCT.  THE QUALITY, CAPABILITIES, OPERATIONS, PERFORMANCE AND SUITABILITY OF ANY SUCH THIRD-PARTY SOFTWARE OR EQUIPMENT LIE SOLELY WITH THE PURCHASER AND THE DIRECT VENDOR, OWNER OR SUPPLIER OF SUCH THIRD-PARTY SOFTWARE OR EQUIPMENT, AS THE CASE MAY BE\n",
+    "source_metadata": {
+      "pdf_id": "5ba6f84c54334f11",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "phone",
+      "market_name": "Sprint Power Vision Phone",
+      "manufacture": "samsung",
+      "released_year": "2006",
+      "pages": "276"
+    }
+  },
+  {
+    "id": "Q079",
+    "task": "qna",
+    "question": " Can I get my user guide in another language?",
+    "answer": "To download the user guide in another language, go t o: http://w w w .lenovo.com/suppor t . Then follow the instructions on the screen",
+    "source_metadata": {
+      "pdf_id": "5350ac773c85d90e",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "ThinkPad Yoga 14",
+      "manufacture": "lenovo",
+      "released_year": "2015",
+      "pages": "184"
+    }
+  },
+  {
+    "id": "Q080",
+    "task": "qna",
+    "question": " How to turn off my computer?",
+    "answer": "For Windows 7: Open the Start menu, then click Shut down.\nFor Windows 8.1: Do one of the following:\n– Go to the Start screen by pressing the Windows key, click the power icon in the top-right corner of the screen, then click Shut down.\n– Move your pointer to the top-right or bottom-right corner of the screen to display the charms. Then click Settings ➙Power ➙Shut down.\nNote: You also can open the Settings charm by pressing the settings key",
+    "source_metadata": {
+      "pdf_id": "5350ac773c85d90e",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "ThinkPad Yoga 14",
+      "manufacture": "lenovo",
+      "released_year": "2015",
+      "pages": "184"
+    }
+  },
+  {
+    "id": "Q081",
+    "task": "qna",
+    "question": " How to use the battery power more effectively?",
+    "answer": "To conserve power, or to suspend operation without exiting applications or saving files, see “Power-saving modes” on page 46.\nTo achieve the best balance between performance and power saving, create and apply power plans. See “Managing the battery power” on page 46.",
+    "source_metadata": {
+      "pdf_id": "5350ac773c85d90e",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "ThinkPad Yoga 14",
+      "manufacture": "lenovo",
+      "released_year": "2015",
+      "pages": "184"
+    }
+  },
+  {
+    "id": "Q082",
+    "task": "qna",
+    "question": " Concerned about security or need to securely dispose of data stored on your storage drive?",
+    "answer": "Study Chapter 5 “Security” on page 67 to find out how you can protect your computer from theft and unauthorized use. \nUse the Password Manager program to protect the data stored on your computer. For details, see the help information system of the program.\nBefore you dispose of the data on the storage drive, be sure to read “Notice on deleting data from your storage drive” on page 75.",
+    "source_metadata": {
+      "pdf_id": "5350ac773c85d90e",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "ThinkPad Yoga 14",
+      "manufacture": "lenovo",
+      "released_year": "2015",
+      "pages": "184"
+    }
+  },
+  {
+    "id": "Q083",
+    "task": "qna",
+    "question": " Is getting connected in different locations a challenge?",
+    "answer": "To troubleshoot a wireless networking issue, go to:http://www.lenovo.com/support/faq\nTake advantage of the networking features by use of the Access Connections program (on the Windows 7\noperating system) or the Location Awareness program (on the Windows 8.1 operating system).\nTo learn more about using the wireless features of your computer, refer to “Wireless connections” on page 47.\nTo travel more confidently, be sure to check the tips in “Traveling with your computer” on page 64.\nPress the wireless-switching key to enable or disable the wireless features.",
+    "source_metadata": {
+      "pdf_id": "5350ac773c85d90e",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "ThinkPad Yoga 14",
+      "manufacture": "lenovo",
+      "released_year": "2015",
+      "pages": "184"
+    }
+  },
+  {
+    "id": "Q084",
+    "task": "qna",
+    "question": " Need to give presentations or attach an external monitor often?",
+    "answer": "Ensure that you follow the procedure for “Using an external display” on page 50.\nWith the Extend desktop function, you can display output on both the computer display and an external monitor.",
+    "source_metadata": {
+      "pdf_id": "5350ac773c85d90e",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "ThinkPad Yoga 14",
+      "manufacture": "lenovo",
+      "released_year": "2015",
+      "pages": "184"
+    }
+  },
+  {
+    "id": "Q085",
+    "task": "qna",
+    "question": " You have been using your computer for some time already, and it is getting slower?",
+    "answer": "Follow the “General tips for preventing problems” on page 93.\nYou can diagnose problems yourself by using the preinstalled diagnostic software.\nCheck for recovery solutions in Chapter 9 “Recovery overview” on page 115.",
+    "source_metadata": {
+      "pdf_id": "5350ac773c85d90e",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "ThinkPad Yoga 14",
+      "manufacture": "lenovo",
+      "released_year": "2015",
+      "pages": "184"
+    }
+  },
+  {
+    "id": "Q086",
+    "task": "qna",
+    "question": " Can I change the Windows 8.1 startup behavior to open either the desktop or the Start screen?",
+    "answer": "On the Windows 8.1 operating system, you can set the computer to open either the desktop or the Start screen by default. To set the default startup screen, do the following:\n1. On the desktop, move your pointer to the taskbar at the bottom of the screen and right-click or tap on the windows notification area.\n2. Click or tap Properties. The Taskbar and Navigation properties window is displayed.\n3. On the Navigation tab, locate the Start screen section, and then do one of the following:\n– To set the desktop as your default startup screen, select When I sign in or close all apps on a screen, go to the desktop instead of Start so a check is visible.\n– To set the Start screen as your default startup screen, remove the check from the When I sign in or close all apps on the screen, go to desktop instead of Start checkbox.\n4. Click or tap OK to save the new setting. \nPrint the following sections and keep them with your computer in case you are unable to access this online user guide when necessary.\n“Installing the Windows 8.1 operating system” on page 78\n“Computer stops responding” on page 99\n“Power problems” on page 111",
+    "source_metadata": {
+      "pdf_id": "5350ac773c85d90e",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "ThinkPad Yoga 14",
+      "manufacture": "lenovo",
+      "released_year": "2015",
+      "pages": "184"
+    }
+  },
+  {
+    "id": "Q087",
+    "task": "qna",
+    "question": " How to Register The Face Recognition Data",
+    "answer": "Take a picture for facial verification purposes, and register the data needed when you log in. To register the data needed when you log in, follow the steps as described below:\n1. To launch this utility, click Start → All Programs → TOSHIBA → Utilities → Face Recognition.\n■ The Registration screen is displayed for a logged-in user whose face has not been registered.\n■ The Management screen is displayed for a logged-in user whose face has already been registered.\n2. Click the Register button in the Management screen. The Registration screen is displayed.\n■ If you wish to practice, click on the Next button in the Registration screen.\n■ If you do not wish to practice, click on the Skip button in the Registration screen.\n3. Click the Next button to start the guide.\n4. First, take a picture while moving your neck slightly to the left and right.\n5. Now take a picture while moving your neck down and up.\n■ Click the Back button to practice the guide once more.\n6. Click the Next button to start image-capturing process. Adjust the position of your face so that it fits within the face-shaped frame.\n7. Once your face has been positioned properly, the recording will commence. Start moving your neck very slightly to the left and right, ulld then move your neck down and up.\n8. Registration will end after you have repeatedly moved your neck left, right, down and up. When the register succeeds, below message will be displayed on the screen:\nRegistration successful. Now we’ll do the verification test. Click the Next button. Click the Next button to perform the verification test.\n9. Perform the verification test. Face the screen as you do when you register.\n■ If verification fails, click the Back button and re-register. Please refer to step 8 from step 6.\n10. If verification is successful, click the Next button and register an account.\n11. Register the account. Fill in the account registration fields.\n■ Fill in the all fields. When you have finished it, click Next button.\n12. The Management screen is displayed. The registered account name \nwill be displayed. Clicking on it will cause the captured image of your \nface to be displayed on the left.",
+    "source_metadata": {
+      "pdf_id": "1f2727ca1e5e5b8f",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Satellite L630,\r\nSatelite L635,\r\nSatellite Pro L635\r\nSatellite Pro L635",
+      "manufacture": "toshiba",
+      "released_year": "2010",
+      "pages": "205"
+    }
+  },
+  {
+    "id": "Q088",
+    "task": "qna",
+    "question": " How to Delete The Face Recognition Data",
+    "answer": "Delete image data, account information, and personal record data created during registration. To delete the Face Recognition Data, follow the steps as described below:\n1. To launch this utility, click Start → All Programs → TOSHIBA → Utilities → Face Recognition. The Management screen is displayed.\n2. Select a user which is deleted in the Management screen.\n3. Click the Delete button. “You are about to delete the user data. Would you like to continue?” will be displayed on the screen.\n■ If you do not want the data to be deleted, click the No button and you will then be returned to the Management screen.\n■ Clicking on the Yes button will remove the selected user from the Management screen.",
+    "source_metadata": {
+      "pdf_id": "1f2727ca1e5e5b8f",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Satellite L630,\r\nSatelite L635,\r\nSatellite Pro L635\r\nSatellite Pro L635",
+      "manufacture": "toshiba",
+      "released_year": "2010",
+      "pages": "205"
+    }
+  },
+  {
+    "id": "Q089",
+    "task": "qna",
+    "question": " How to Launch The Help File",
+    "answer": "For further information on this utility, please refer to help file.\n■ To launch the help file, click Start → All Programs → TOSHIBA → Utilities → Face Recognition Help.",
+    "source_metadata": {
+      "pdf_id": "1f2727ca1e5e5b8f",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Satellite L630,\r\nSatelite L635,\r\nSatellite Pro L635\r\nSatellite Pro L635",
+      "manufacture": "toshiba",
+      "released_year": "2010",
+      "pages": "205"
+    }
+  },
+  {
+    "id": "Q090",
+    "task": "qna",
+    "question": " how to create Recovery Media.",
+    "answer": "A recovery image of the software on your computer is stored on the hard disk drive, and can be copied to either DVD or USB Flash Memory by using the following steps:\n1.Select either blank DVD or USB Flash Memory.\nThe application will allow you to choose from a variety of different media onto which the recovery image can be copied including DVD-R, DVD-R DL, DVD-RW, DVD+R, DVD+R DL, DVD+RW and USB Flash Memory.\n2. Turn on your computer and allow it to load the Windows 7 operating system from the hard disk drive as normal.\n3. Insert the media into the computer.\n■ Insert the first blank disc into the optical disc drive tray, or insert the USB Flash Memory into one available USB port\n4.Double click the Recovery Media Creator icon on the Windows 7 desktop, or select the application from Start Menu.\n5.After Recovery Media Creator starts, select the type of media and the title you wish to copy, and then click the Create button.",
+    "source_metadata": {
+      "pdf_id": "1f2727ca1e5e5b8f",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Satellite L630,\r\nSatelite L635,\r\nSatellite Pro L635\r\nSatellite Pro L635",
+      "manufacture": "toshiba",
+      "released_year": "2010",
+      "pages": "205"
+    }
+  },
+  {
+    "id": "Q091",
+    "task": "qna",
+    "question": " How to Make a LabelflashTM DVD",
+    "answer": "Simplified steps for making a LabelflashTM DVD:\n1. Insert a LabelflashTM disc in DVD drive.\n2. Launch Corel Label@Once (the operation varies depending on the models you purchased):\n■ Click Start →All Programs → DVD MovieFactory for TOSHIBA →DVD MovieFactory Launcher. Click Create Disc Label.\n■ Click Start → All Programs → Corel Label@Once →Corel Label@Once.\n3.Click the General tab.\n4.Choose optical disc drive for Printer. e.g.<E:>\n5.Add and customize the look of your images and text.\n6.Click Label Flash Setting and choose Draw Quality.\n7. Click Print.",
+    "source_metadata": {
+      "pdf_id": "1f2727ca1e5e5b8f",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Satellite L630,\r\nSatelite L635,\r\nSatellite Pro L635\r\nSatellite Pro L635",
+      "manufacture": "toshiba",
+      "released_year": "2010",
+      "pages": "205"
+    }
+  },
+  {
+    "id": "Q092",
+    "task": "qna",
+    "question": " How to Make a DVD-Video",
+    "answer": "Simplified steps for making a DVD-Video from adding video source:\n1. Click Start →All Programs →DVD MovieFactory for TOSHIBA →DVD MovieFactory Launcher to launch DVD MovieFactory.\n2. Insert a DVD-R or DVD+R or DVD-RW or DVD+RW disc in Burner.\n3. Click Create Video Disc →New Project and choose your Project format.\n4. Add source from HDD by click Add Video files button to invoke browser dialog box.\n5. Choose the source video then go to Next page to apply Menu.\n6. After choose the menu template, press Next button to go to Output Page.\n7. Choose the output type then press Burn button.",
+    "source_metadata": {
+      "pdf_id": "1f2727ca1e5e5b8f",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Satellite L630,\r\nSatelite L635,\r\nSatellite Pro L635\r\nSatellite Pro L635",
+      "manufacture": "toshiba",
+      "released_year": "2010",
+      "pages": "205"
+    }
+  },
+  {
+    "id": "Q093",
+    "task": "qna",
+    "question": " How to make a Blu-ray Disc Movie",
+    "answer": "Simplified steps for making a Blu-ray disc movie:\n1.Click Start →All Programs → DVD MovieFactory for TOSHIBA → DVD MovieFactory Launcher to launch DVD MovieFactory.\n2.Click Create Video Disc → New Project to invoke the 2nd Launcher, choose Blu-ray, and then invoke DVD MovieFactory.\n3.Add source from HDD by clicking Add Video files button to invoke browser dialog box.\n4.Choose the source video and then go to Next page to apply Menu.\n5.After choosing the menu template, click the Next button to go to the Burning Page.\n6.Choose the output type and then click the Burn button.",
+    "source_metadata": {
+      "pdf_id": "1f2727ca1e5e5b8f",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "laptop",
+      "market_name": "Satellite L630,\r\nSatelite L635,\r\nSatellite Pro L635\r\nSatellite Pro L635",
+      "manufacture": "toshiba",
+      "released_year": "2010",
+      "pages": "205"
+    }
+  },
+  {
+    "id": "Q094",
+    "task": "qna",
+    "question": " The camera power is off",
+    "answer": "Turn the camera power on. We recommend using an AC power adapter in PC mode",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q095",
+    "task": "qna",
+    "question": " USB Driver is not installed correctly.",
+    "answer": "Install the USB Driver correctly. Refer to page 97.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q096",
+    "task": "qna",
+    "question": " The USB cable is not connected or you are using a cable with an incorrect specification.",
+    "answer": "Use a USB cable with the correct specification.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q097",
+    "task": "qna",
+    "question": " The camera is not recognized by your PC. Sometimes, the camera may appear under [Unknown Devices] in Device Manager",
+    "answer": "Install the camera driver correctly. Turn off the camera, remove the USB cable, plug in the USB cable again, and then turn on the camera.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q098",
+    "task": "qna",
+    "question": " There is an unexpected error during file transfer",
+    "answer": "Turn the camera power off and on again. Transfer the file again.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q099",
+    "task": "qna",
+    "question": " How do I know my computer supports a USB Interface?",
+    "answer": "Check the USB port in your computer or keyboard.\nCheck the OS version. A USB Interface is available in Windows 98, 98SE, 2000, ME .XP.\nCheck [Universal Serial Bus controllers] in Device Manager. Do the following to check [Universal Serial Bus controllers].\nWin 98/ME : Trace [Start Settings Control Panel System Device Manager  Universal Serial Bus controllers].\nWin 2000 : Trace [Start Settings Control Panel System Hardware Device Manager Universal Serial Bus controllers].\nWin XP : Trace [Start Control Panel System Hardware Device Manager Universal Serial Bus controllers].\nThere must be USB Host Controller and USB root hub under [Universal Serial Bus controllers].\nIn addition, double-click on the USB Universal Host Controller and the USB Root Hub to check if the Device Status states This device is working properly.\nIf the Device Status says the device is not working properly, click the Driver tab and then click [Update Driver] or [Reinstall Driver].\nWhen all the conditions mentioned above are met, the computer can support the USB interface",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q100",
+    "task": "qna",
+    "question": " When using the USB hub.",
+    "answer": "There may be a problem in connecting the camera to the PC through the USB hub if the PC and the hub are not compatible. Wherever possible, connect the camera to the PC directly",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q101",
+    "task": "qna",
+    "question": "are other USB cables connected to the PC?",
+    "answer": "The camera may malfunction when it is connected to the PC at the same time as another USB cable.  In this case, disconnect the other USB cable, and connect only one USB cable to the camera.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q102",
+    "task": "qna",
+    "question": " When I open the Device Manager (by clicking Start (Settings) Control Panel (Performance and Maintenullce) System (Hardware) Device Manager), there are  Unknown Devices or  Other Devices entries with a yellow question mark(?) beside them or devices with an exclamation mark(!) beside them.",
+    "answer": "Right-click on the entry with the question(?) or exclamation (!) mark and select Remove. Restart the PC and connect the camera the again. For Windows 98 PC, remove the camera driver also, restart the PC, and then reinstall the camera driver. Double-click on the entry with the question (?) or exclamation (!) mark, click the Driver tab, and click [Update Driver] or [Reinstall Driver]. If a message appears asking you to specify the location of the appropriate device driver, specify USB Driver in the CD supplied.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q103",
+    "task": "qna",
+    "question": " Why my movie clip doesn't play back?",
+    "answer": "If you installed an incorrect codec onto your PC, the movie clip may not play back on the PC. \nCheck whether the JPEG Decoder provided with the camera is installed.\nIf you didn't install the camera driver, please install the JPEGCODE included in the application S/W CD-ROM. If not, the movie clip may not play back on the PC. \n[ Installing the JPEG Decoder ]\n1) Insert the CD provided with the camera. \n2) Run the windows explorer and select the CD-ROM drive. \n3) Select the JPEG_Decoder folder and double click the Setup.exe file. The codec will be installed. \n[Case 9] When I open the Device Manager (by clicking Start (Settings) Control Panel (Performance and Maintenullce) System (Hardware) Device Manager), there are  Unknown Devices or  Other Devices entries with a yellow question mark(?) beside them or devices with an exclamation mark(!) beside them. Right-click on the entry with the question(?) or exclamation (!) mark and select Remove. Restart the PC and connect the camera the again. For Windows 98 PC, remove the camera driver also, restart the PC, and then reinstall the camera driver. Double-click on the entry with the question (?) or exclamation (!) mark, click the Driver tab, and click [Update Driver] or [Reinstall Driver]. If a message appears asking you to specify the location of the appropriate device driver, specify USB Driver in the CD supplied.\n2. Compatible problems with the codecs installed onto the PC. If the movie clip doesn't play back after installing the JPEG Decoder, refer to the following. \n1) When the movie clip plays back, only the sound plays back without the image. It isn't compatible with the Mogen MJPEG Decoder. Uninstall the Mogen MJPEG Decoder as following order. Click [Start Run] and a window will open. Type regsvr32 /u m3jpgdec.ax and press the Enter key. Most problems will be solved with those remedies. If the movie clip doesn't play back continuously, install the JPEGCODE provided with the camera again. For more information, visit the samsung website(www.samsungcamera.com) and see the FAQ page. \n2) When the movie clip plays back, the blue and red colors are reversed or the movie clip doesn't open. It isn't compatible with the ffdshow Codec or K-lite Codec Pack. Disable the ffdshow program.Trace [Start Programs ffdshow Disable ffdshow].  Uninstall the K-Lite Codec Pack or set the default program of the AVI file as the Windows Media Player.  Trace [Start Control Panel Add/ Remove Programs Select the K-Lite Codec Pack  Click the Change/ Remove button]. Run the windows explorer Select AVI file Click the right mouse button Select the Open with menu Click the Windows Media Player Check the Always use this program to open these files option Click the [OK] button. ",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q104",
+    "task": "qna",
+    "question": " How to use the AUTO mode",
+    "answer": "1. Insert the batteries.(p.16) Insert the batteries taking note of the polarity (+ / -).\n2. Insert the memory card (p.19).\n3. Close the battery chamber cover.\n4. Press the power button to turn on the camera. (If the date/time that is displayed on the LCD monitor is incorrect, reset the date/time before taking a picture.)\n5. Select the AUTO mode by rotating the mode dial.\n6. Point the camera towards the subject and compose the image by using either the viewfinder or LCD monitor.\n7. Press the shutter button to capture an image.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q105",
+    "task": "qna",
+    "question": " How to use the PROGRAM mode",
+    "answer": "Selecting the automatic mode will configure the camera with optimal settings. You can still manually configure all functions except the iris and shutter speed. Steps from 1-4 are the same as those for AUTO mode.\n5. Select the PROGRAM mode by rotating the mode dial.\n6. Press the menu button to configure advanced functions such as image size (p.44), quality (p.45), metering (p.46), continuous shooting (p.46), picture effects (p.47), sharpness(p.48) and MYSET(p.49) settings.\n7. Point the camera towards the subject and compose the image by using either the viewfinder or LCD monitor. 8. Press the shutter button to capture an image. Starting the recording mode",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q106",
+    "task": "qna",
+    "question": " How to use the AS mode (         )",
+    "answer": "The Aperture and Shutter can be set manually in this mode.\nSteps from 1-4 are the same as those for AUTO mode.\n5. Select the AS mode by rotating the mode dial.\n6. Use the ASM, Up/Down/Left/Right buttons to select Aperture Value and Shutter speed. \n* Please see page 39 for details on Aperture and Shutter speed setting.\n7. Point the camera towards the subject and compose the image by using either the viewfinder or LCD monitor.\n8. Press the shutter button to capture an image.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q107",
+    "task": "qna",
+    "question": " How to use the M mode (          )",
+    "answer": "The Aperture and Shutter can be set manually in this mode. \nSteps from 1-4 are the same as those for AUTO mode.\n5. Select the M mode by rotating the mode dial.\n6.  Use the ASM, Up/Down/Left/Right buttons to select Aperture Value and Shutter speed. \n* Please see page 40 for details on Aperture and Shutter speed setting.\n7. Point the camera towards the subject and compose the image by using either the viewfinder or LCD monitor.\n8. Press the shutter button to capture an image. \n*  If the M mode is selected, a bar to indicate the exposure value will display on the bottom of the LCD monitor",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q108",
+    "task": "qna",
+    "question": " How to use the VOICE RECORDING mode (             )",
+    "answer": "Steps from 1-4 are the same as those for AUTO mode.\n5. Select the VOICE RECORDING mode by rotating the mode dial.\n6. Press the shutter button to record a voice.\n- Press the shutter button once and voice is recorded for as long as the available recording time(Max : 1 hour) allows. The recording time will be displayed on the LCD monitor. Voice will still be recorded if the shutter button is released.\n- If you wish to stop recording, press the shutter button again.\n- File type : *.wav\n* A distance of 40cm between you and the camera (microphone) is the best distance to record sound.\n* The auto focus indicator lamp(Green) blinks during voice recording",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q109",
+    "task": "qna",
+    "question": " How to use the MOVIE CLIP mode(          )",
+    "answer": "Steps from 1-4 are the same as those for AUTO mode.\n5. Select the MOVIE CLIP mode by rotating the mode dial.\n6. The MOVIE CLIP mode icon and available recording time will display on the LCD monitor.\n7. Point the camera towards the subject and compose the image by using either the viewfinder or LCD monitor. Press the shutter button and movie clips are recorded for as long as the available recording time.  Movie clips will still be recorded if the shutter button is released.  Recording time will display on the LCD monitor.  If you wish to stop recording, press the shutter button again. Image size and type are listed below. \n- Image size : 640x480, 320 x 240, 160x120(Selectable) \n- File type : *.avi",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q110",
+    "task": "qna",
+    "question": " How to use the SCENE mode (                   )",
+    "answer": "Use the menu to easily configure optimal settings for a variety of shooting situations including portrait, children, landscape, text recognition, close-up, sunset, dawn, backlight, fireworks, beach scenes, and snowscape.\nSteps from 1-4 are the same as those for AUTO mode.\n5. Select the SCENE mode by rotating the mode dial.\n6. Press the ASM(Manual & Scene mode) button and use the Left/Right buttons to select the sub menu.\n7. After selecting a desired sub menu, press the ASM(Manual & Scene mode) button or OK button. \n8. The current scene icon is displayed at the top left of the LCD.\n9. Point the camera towards the subject and compose the image by using either the viewfinder or LCD monitor.\n10. Press the shutter button to capture an image.",
+    "source_metadata": {
+      "pdf_id": "02566c1db2bc87fd",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A63",
+      "manufacture": "samsung",
+      "released_year": "2008",
+      "pages": "120"
+    }
+  },
+  {
+    "id": "Q111",
+    "task": "qna",
+    "question": " The camera power is off",
+    "answer": "Turn the camera power on. We recommend using an AC power adapter in PC mode",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q112",
+    "task": "qna",
+    "question": " USB Driver is not installed correctly.",
+    "answer": "Install the USB Driver correctly. Refer to page 97.",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q113",
+    "task": "qna",
+    "question": " The USB cable is not connected or you are using a cable with an incorrect specification.",
+    "answer": "Use a USB cable with the correct specification.",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q114",
+    "task": "qna",
+    "question": " The camera is not recognized by your PC. Sometimes, the camera may appear under [Unknown Devices] in Device Manager",
+    "answer": "Install the camera driver correctly. Turn off the camera, remove the USB cable, plug in the USB cable again, and then turn on the camera.",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q115",
+    "task": "qna",
+    "question": " There is an unexpected error during file transfer",
+    "answer": "Turn the camera power off and on again. Transfer the file again.",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q116",
+    "task": "qna",
+    "question": " How do I know my computer supports a USB Interface?",
+    "answer": "Check the USB port in your computer or keyboard. Check the OS version. A USB Interface is available in Windows 98, 98SE, 2000, ME .XP. Check [Universal Serial Bus controllers] in Device Manager. Do the following to check Universal Serial Bus controllers]. Win 98/ME : Trace [Start Settings Control Panel System  Device Manager  Universal Serial Bus controllers]. Win 2000 : Trace [Start Settings Control Panel System  Hardware Device Manager Universal Serial Bus controllers]. Win XP : Trace [Start Control Panel System Hardware  Device Manager Universal Serial Bus controllers]. There must be USB Host Controller and USB root hub under [Universal Serial Bus controllers]. In addition, double-click on the USB Universal Host Controller and the USB Root Hub to check if the Device Status states This device is working properly. If the Device Status says the device is not working properly, click the Driver tab and then click [Update Driver] or [Reinstall Driver]. When all the conditions mentioned above are met, the computer can support the USB interface",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q117",
+    "task": "qna",
+    "question": " When using the USB hub.",
+    "answer": "There may be a problem in connecting the camera to the PC through the USB hub if the PC and the hub are not compatible. Wherever possible, connect the camera to the PC directly",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q118",
+    "task": "qna",
+    "question": "are other USB cables connected to the PC?",
+    "answer": "The camera may malfunction when it is connected to the PC at the same time as another USB cable.  In this case, disconnect the other USB cable, and connect only one USB cable to the camera.",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q119",
+    "task": "qna",
+    "question": " When I open the Device Manager (by clicking Start (Settings) Control Panel (Performance and Maintenullce) System (Hardware) Device Manager), there are  Unknown Devices or  Other Devices entries with a yellow question mark(?) beside them or devices with an exclamation mark(!) beside them.",
+    "answer": "Right-click on the entry with the question(?) or exclamation (!) mark and select\nRemove. Restart the PC and connect the camera the again. \nFor Windows 98 PC, remove the camera driver also, restart the PC, and then\nreinstall the camera driver.\nDouble-click on the entry with the question (?) or exclamation (!) mark, click the\nDriver tab, and click [Update Driver] or [Reinstall Driver]. If a message appears\nasking you to specify the location of the appropriate device driver, specify USB\nDriver in the CD supplied.\n",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "Q120",
+    "task": "qna",
+    "question": " How to use the menu",
+    "answer": "1. Turn on the camera and press the MENU button. A menu for each camera mode appears.\nHowever, there is no menu for Voice Recording mode (         ).\n2. Use the LEFT and RIGHT buttons to navigate through the menus. \n3. Use the UP and DOWN buttons to select a sub menu.\n4. Select a sub menu, and then the value you set will be saved. Press the MENU button and\nthe menu will disappear.",
+    "source_metadata": {
+      "pdf_id": "c8d51612f377266c",
+      "doc_type": "user_manual",
+      "language": "english",
+      "product_type": "camera",
+      "market_name": "Digimax A4",
+      "manufacture": "samsung",
+      "released_year": "2004",
+      "pages": "108"
+    }
+  },
+  {
+    "id": "T001",
+    "task": "translation",
+    "text_source": "\nInstall the SIM card and battery Always switch the device off, and disconnect the charger before removing the battery. Keep all SIM cards out of the reach of small children. For availability and information on using SIM card services, contact your SIM card vendor. This may be the service provider, network operator, or other vendor. The SIM card and its contacts can easily be damaged by scratches or bending, so be careful when handling, inserting, or removing the card. To install the SIM card:\n1. Press firmly and slide the top of the back cover to release it; then remove the back cover by lifting it from the phone. 2. After you have removed the back cover, insert your fingernail under the battery, and lift it as shown.\n3. Place a fingernail in the middle of the metal SIM card holder. Then, unlatch and swing the SIM card holder open. \n4. Insert the SIM card into the holder as shown, beveled corner first, with the gold-colored contacts on the SIM card face up (away from the phone).\n5. Swing the SIM card holder closed. The gold-colored contacts on the SIM card meet the gold-colored contacts on the inside of the phone. Gently press the SIM card holder into the phone until it clicks into place.\n6. Replace the battery, by positioning it (with the label side facing up), so the gold-colored contacts match up with those on the phone. Slide the battery in until it snaps into place. \n7. Slide the back cover until it locks into place.",
+    "text_target": "Instalar la tarjeta SIM y la batería Siempre apague el dispositivo y desconecte el cargador antes de retirar la batería. Mantenga todas las tarjetas SIM fuera del alcance de los niños. Para obtener más información sobre disponibilidad y uso de los servicios de tarjetas SIM, comuníquese con el proveedor de su tarjeta SIM. Puede ser su proveedor de servicios, operador de red u otro proveedor. La tarjeta SIM y sus contactos pueden dañarse fácilmente al rayarse o doblarse, así que tenga cuidado al manejar, instalar o retirar la tarjeta. Para instalar la tarjeta SIM:\n1. Presione y deslice la parte superior de la cubierta posterior para soltarla, luego continúe deslizando la cubierta posterior para levantarla y retirarla del teléfono.\n2. Después de retirar la cubierta posterior, inserte su dedo debajo de la batería y levántela como se muestra.\n3. Coloque una uña en la parte central del soporte metálico de la tarjeta SIM. Luego, suelte y abra el soporte de la tarjeta SIM. \n4. Inserte la tarjeta SIM en el soporte como se muestra, primero la esquina biselada, con los contactos dorados en la tarjeta SIM hacia arriba (lejos del teléfono).\n5. Gire el sujetador de la tarjeta SIM para que cierre. Los contactos dorados en la tarjeta SIM coinciden con los contactos dorados dentro del teléfono. Presione cuidadosamente  el soporte de la tarjeta SIM dentro del teléfono hasta que encaje en su sitio.\n6. Vuelva a colocar la batería, al colocarla (con el lado de la etiqueta hacia arriba), de manera que los contactos dorados coincidan con los del teléfono. Deslíce la batería hasta que encaje en su sitio. \n7. Deslíce la cubierta posterior hasta que encaje en su sitio.",
+    "source_language": "english",
+    "target_language": "spanish",
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T002",
+    "task": "translation",
+    "text_source": "\ncharge the battery\n1. Connect the charger to a standard wall outlet.\n2. Insert the charger plug into the round jack in the bottom of the phone. If the battery is completely discharged, it may take a few minutes before the charging indicator appears on the display or before any calls can be made.\n3. Disconnect the charger from the phone when the battery is fully charged.\nYou can use the phone while the charger is connected. The charging time depends on the charger and the battery used. For example, charging a BL-5C battery with the AC-3 charger takes approximately 2 hours and 20 minutes while the phone is in the standby mode.",
+    "text_target": "Cargar la batería \n1. Conecte el cargador a un enchufe de pared estándar.\n2. Inserte el conector del cargador en el enchufe redondo en la base del teléfono. Si la batería está completamente descargada, es posible que pasen varios minutos antes de que el indicador de carga aparezca en la pantalla o antes de poder realizar alguna llamada.\n3. Desconecte el cargador del teléfono cuando la batería esté completamente cargada.\nPuede usar el teléfono mientras el cargador está conectado. Los tiempos de carga dependen del cargador y la batería usada. Por ejemplo, cargar una batería BL-5C con el cargador AC-3 toma aproximadamente 2 horas y 20 minutos con el teléfono en el modo standby.",
+    "source_language": "english",
+    "target_language": "spanish",
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T003",
+    "task": "translation",
+    "text_source": "\nSwitch the phone on and off Press and hold the end key until the phone switches on or off. If the phone asks for a PIN, enter the code, and select OK.",
+    "text_target": "Encender y apagar el teléfono Mantenga pulsada la tecla Finalizar  hasta que el teléfono se encienda o se apague. Si el teléfono solicita un código PIN, ingréselo y seleccione OK.",
+    "source_language": "english",
+    "target_language": "spanish",
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T004",
+    "task": "translation",
+    "text_source": "\nMusic player\nYour phone includes a music player for listening to music tracks, recordings, or MP3, MP4, WMA (Windows Media Audio), AAC, AAC+, or eAAC+ sound files that you have transferred to the phone with the Nokia Music Manager application. Music files are automatically detected and added to the default track list.",
+    "text_target": "Reproductor de música\nSu teléfono incluye un reproductor de música para escuchar sus pistas de música, grabaciones o archivos de sonido MP3, MP4, WMA (Windows Media Audio), AAC, AAC+ o eAAC+ que haya transferido al teléfono con la aplicación Nokia Music Manager. Los archivos de música se detectan y agregan automáticamente a la lista de pistas predeterminada.",
+    "source_language": "english",
+    "target_language": "spanish",
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T005",
+    "task": "translation",
+    "text_source": "\nRadio\nThe FM radio depends on an antenna other than the wireless device antenna. A compatible headset or enhancement needs to be attached to the device for the FM radio to function properly.\nWarning: Listen to music at a moderate level.Continuous exposure to high volume may damage your hearing.",
+    "text_target": "Radio\nLa radio FM depende de una antena además a la antena del dispositivo inalámbrico.  Para que la radio FM funcione adecuadamente, es preciso conectar un auricular o accesorio compatible al dispositivo.\nAdvertencia: Escuche música a un volumen moderado. La exposición prolongada a un nivel de volumen alto puede perjudicar su facultad auditiva.",
+    "source_language": "english",
+    "target_language": "spanish",
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T006",
+    "task": "translation",
+    "text_source": "\nWeb\nYour phone has a built-in browser, which can be used to connect to selected services on the mobile internet. Many wireless mobile internet access features are network-dependent, and some features may not be available. Contact your service provider for more information.",
+    "text_target": "Web\nSu teléfono tiene un explorador incorporado, que se puede utilizar para conectarse a servicios seleccionados en internet móvil. Muchas funciones inalámbricas de acceso a internet móvil dependen de la red y es posible que algunas funciones no estén disponibles. Comuníquese con su proveedor de servicios para obtener más información.",
+    "source_language": "english",
+    "target_language": "spanish",
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T007",
+    "task": "translation",
+    "text_source": "\nTechnology background\nA technology called wireless application protocol (WAP) is to mobile devices what the world wide web (WWW) is to personal computers. Most WAP sites are made up of text and hyperlinks. Some pages even contain low-resolution graphics or require data input. You may not be able to view all the details of the mobile internet pages, as page appearance may vary due to screen size.",
+    "text_target": "Antecedentes de la tecnología\nUna tecnología llamada protocolo de aplicación de telefonía inalámbrica (WAP) es para dispositivos móviles lo que la red mundial web (WWW) es para las computadoras personales. La mayoría de los sitios WAP están formados por texto e hipervínculos. Algunas páginas hasta contienen gráficos de baja resolución o requieren de ingreso de datos. Es posible que no pueda ver todos los detalles de las páginas de internet móvil, debido a que la apariencia de la página puede variar dependiendo del tamaño de la pantalla.",
+    "source_language": "english",
+    "target_language": "spanish",
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T008",
+    "task": "translation",
+    "text_source": "\nBrowse\nIt should not be necessary to manually configure the browser on your phone. Normally this is done by your service provider once you have subscribed to the feature. Contact your service provider if you have problems using the browser. After you make a connection to the service, you can start browsing its pages. The function of the phone keys may vary in different services. Follow the text guides on the phone display. For more information, contact your service provider.",
+    "text_target": "Explorar\nNo debería ser necesario configurar manualmente el explorador en su teléfono. Normalmente esto lo hace su proveedor de servicios una vez que se ha suscrito a la función. Comuníquese con su proveedor de servicios en caso de tener problemas al usar el explorador. Tras hacer la conexión al servicio, puede empezar a explorar por sus páginas. La función de las teclas del teléfono puede variar según los servicios. Siga las instrucciones de texto en la pantalla del teléfono. Para obtener más información, consulte a su proveedor de servicios.",
+    "source_language": "english",
+    "target_language": "spanish", 
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T009",
+    "task": "translation",
+    "text_source": "\nOperating environment\nRemember to follow any special regulations in force in any area, and always switch off your device when its use is prohibited or when it may cause interference or danger. Use the device only in its normal operating positions. This device meets  RF exposure guidelines when used either in the normal use position against the ear or when positioned at least 5/8 inch (1.5 centimeters) away from the body. When a carry case, belt clip, or holder is used for body-worn operation, it should not contain metal and should position the device the above-stated distance from your body. To transmit data files or messages, this device requires a quality connection to the network. In some cases, transmission of data files or messages may be delayed until such a connection is available. Ensure the above separation distance instructions are followed until the transmission is completed. Parts of the device are magnetic. Metallic materials may be attracted to the device. Do not place credit cards or other magnetic storage media near the device because information stored on them may be erased.",
+    "text_target": "Entorno operativo\nRespete la normativa especial vigente en la zona donde se encuentra y apague el dispositivo siempre que esté prohibido su uso, cuando pueda causar interferencia o resultar peligroso. Use el dispositivo en su posición normal de funcionamiento. Este dispositivo cumple con las normas de exposición a RF cuando es usado en su posición normal de funcionamiento, cerca del oído o portado a una distancia mínima de 5/8 de pulgada (1,5 centímetros) del cuerpo. Al portar el dispositivo en accesorios como un estuche, clip de cinturón o soporte, utilice sólo los que no contengan metal y que mantengan el dispositivo lejos del cuerpo a la distancia mínima del cuerpo, como indicada arriba. Para transmitir archivos de datos o mensajes, este dispositivo requiere una conexión de calidad a la red. En algunos casos, la transmisión de archivos de datos o mensajes pueden demorarse hasta que la conexión adecuada esté disponible. Siga las instrucciones anteriores sobre las distancias de separación hasta que la transmisión haya finalizado.Algunas piezas del dispositivo son magnéticas. Su dispositivo puede atraer materiales metálicos. No coloque tarjetas de crédito, ni otros medios magnéticos de almacenamiento de datos, cerca del dispositivo, pues la información que almacenen puede perderse.",
+    "source_language": "english",
+    "target_language": "spanish",    
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  },
+  {
+    "id": "T010",
+    "task": "translation",
+    "text_source": "\nMedical devices\nOperation of any radio transmitting equipment, including wireless phones, may interfere with the functionality of inadequately protected medical devices. Consult a physician or the manufacturer of the medical device to determine if they are adequately shielded from external RF energy or if you have any questions. Switch off your device in health care facilities when any regulations posted in these areas instruct you to do so. Hospitals or health care facilities may be using equipment that could be sensitive to external RF energy. \nPacemakers\nPacemaker manufacturers recommend that a minimum separation of 6 inches (15.3 centimeters) be maintained between a wireless phone and a pacemaker to avoid potential interference with the pacemaker. These recommendations are consistent with the independent research by and recommendations of Wireless Technology Research. Persons with pacemakers should do the following:\n• Always keep the device more than 6 inches (15.3 centimeters) from the pacemaker\n• Not carry the device in a breast pocket\n• Hold the device to the ear opposite the pacemaker to minimize the potential for interference.\nIf you suspect interference, switch off your device, and move the device away.\nHearing aids\nSome digital wireless devices may interfere with some hearing aids. If interference occurs, consult your service provider.",
+    "text_target": "Dispositivos médicos\nLos aparatos de radiotransmisión, incluso los teléfonos móviles, pueden interferir con el funcionamiento de dispositivos médicos que no estén protegidos adecuadamente. Consulte con un médico o con el fabricante del dispositivo médico si tiene alguna pregunta o para determinar si está correctamente protegido contra las señales externas de radiofrecuencia. Apague su dispositivo en los lugares específicos de los centros de salud donde se le indique. Es probable que en los hospitales y centros de salud se utilicen equipos sensibles a las señales externas de RF.\nMarcapasos\nLos fabricantes de marcapasos recomiendan que se mantenga una separación mínima de 6 pulgadas (15,3 centímetros) entre un teléfono móvil y el marcapasos a fin de minimizar la potencia para interferencia. Estos consejos provienen de la investigación independiente y recomendaciones de la Investigación tecnológica en telefonía móvil (Wireless Technology Research). Las personas con marcapasos:\n• Deben mantener siempre una distancia de más de 6 pulgadas (15,3 centímetros) entre su dispositivo y el marcapasos\n• No deben llevar el dispositivo en el bolsillo superior de la ropa \n• Deben utilizar el dispositivo en el oído contrario al marcapasos para minimizar las posibles interferencias. \nSi tiene alguna razón para sospechar que existen interferencias, apague su dispositivo y aléjelo.\nAuxiliares auditivos\nAlgunos dispositivos móviles digitales pueden interferir con determinados aparatos auditivos. Si sucede alguna interferencia, comuníquese con su proveedor de servicios.",
+    "source_language": "english",
+    "target_language": "spanish",
+    "source_metadata": {
+      "pdf_id": "d8c61dbf7fc19f4e",
+      "doc_type": "user_manual",
+      "language": "english, espanol",
+      "product_type": "phone",
+      "market_name": "Nokia 6086",
+      "manufacture": "nokia",
+      "released_year": "",
+      "pages": "209"
+    }
+  }
+]
